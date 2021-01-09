@@ -2,7 +2,7 @@ import { Car } from '../Model/Car';
 
 
 
-  export const Cars: Car[] = [
+  export const CARS: Car[] = [
     {
       description:"Compact Car Name:B FORD FOCUS or similar",
       carType:"Compact",

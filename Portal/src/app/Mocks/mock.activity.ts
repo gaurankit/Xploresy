@@ -2,7 +2,7 @@ import { Activity } from '../Model/Activity';
 
 
 
-  export const Activities: Activity[] = [
+  export const ACTIVITIES: Activity[] = [
     {
       name:"Fly LINQ Zipline at The LINQ",
       city:"Las Vegas",

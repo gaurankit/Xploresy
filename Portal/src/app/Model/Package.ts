@@ -14,4 +14,5 @@ export class Package {
   name:string;
   city:string;
   image: string;
+  packageId:number;
 }

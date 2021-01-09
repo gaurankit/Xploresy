@@ -2,7 +2,7 @@ import { Hotel } from '../Model/Hotel';
 
 
 
-  export const Hotels: Hotel[] = [
+  export const HOTELS: Hotel[] = [
     {
       name:"ARIA Resort & Casino",
       address:"3730 Las Vegas Blvd. South, Hotel Address Line 2 Las Vegas, NV, US, 89109",
@@ -137,7 +137,7 @@ import { Hotel } from '../Model/Hotel';
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/295046/49fc07da_z.jpg?w=400",
       rank:0,
       tags:"Relexing"
-    }
+    },
 
     {
       name:"Windsor Court Hotel",

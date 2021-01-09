@@ -2,7 +2,7 @@ import { Flight } from '../Model/Flight';
 
 
 
-  export const Flights: Flight[] = [
+  export const FLIGHTS : Flight[] = [
     {
       airlineName:"Delta",
       sourceAirport:"DFW",
@@ -27,7 +27,7 @@ import { Flight } from '../Model/Flight';
       sourceCity:"Dallas",
       destinationAirport:"HNL",
       destinationCity:"Honolulu",
-      Price:250,
+      Price:800,
       duration:2,
       startDateTime:new Date(2020,2,12),
       endDateTime:new Date(2020,2,15),

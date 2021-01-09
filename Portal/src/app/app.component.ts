@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { RecommendationService } from "./Services/recommendation.service";
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -11,11 +12,10 @@ import { RecommendationService } from "./Services/recommendation.service";
 export class AppComponent implements OnInit {
   title = 'WOW - Home';
 
-  constructor(private recommendationService: RecommendationService) { }
+  constructor(private router: Router) { }
 
-  getPackages(): void {
-    let packages = this.recommendationService.getPackages("Dallas",2000,"Relax","Beach");
-    console.log(packages);
+  goToHome(){
+    this.router.navigateByUrl('/search');
   }
 
   ngOnInit() {
