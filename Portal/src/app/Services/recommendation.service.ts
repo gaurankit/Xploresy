@@ -60,7 +60,7 @@ export class RecommendationService {
   }
 
   getFlights(sourceLocation:string,totalBudget:number,vacationPref:string){
-        let flights = FLIGHTS.filter(x=> x.sourceCity==sourceLocation);
+        let flights = FLIGHTS.filter(x=> x.sourceCity.toUpperCase()==sourceLocation.toUpperCase());
         console.log("Flights found - ");
         console.log(flights);
 
@@ -85,7 +85,7 @@ export class RecommendationService {
   }
 
   getHotel(destinationLocation:string,totalBudget:number,vacationPref:string){
-    let hotels = HOTELS.filter(x=> x.city==destinationLocation);
+    let hotels = HOTELS.filter(x=> x.city.toUpperCase()==destinationLocation.toUpperCase());
     console.log("Hotels found - ");
     console.log(hotels);
 
@@ -110,7 +110,7 @@ export class RecommendationService {
 }
 
 getCar(destinationLocation:string,totalBudget:number,vacationPref:string){
-  let cars = CARS.filter(x=> x.pickUpLocation==destinationLocation);
+  let cars = CARS.filter(x=> x.pickUpLocation.toUpperCase()==destinationLocation.toUpperCase());
   console.log("cars found - ");
   console.log(cars);
 
@@ -135,7 +135,7 @@ getCar(destinationLocation:string,totalBudget:number,vacationPref:string){
 }
 
 getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
-  let activities = ACTIVITIES.filter(x=> x.city==destinationLocation);
+  let activities = ACTIVITIES.filter(x=> x.city.toUpperCase()==destinationLocation.toUpperCase());
   console.log("activities found - ");
   console.log(activities);
 
@@ -176,6 +176,9 @@ getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
         flightBudget = totalBudget*20/100;
         break;
       }
+      default:{
+        flightBudget = totalBudget*20/100;
+      }
     }
     return flightBudget;
   }
@@ -195,6 +198,9 @@ getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
       case"Adventurous": {
         HotelBudget = totalBudget*25/100;
         break;
+      }
+      default:{
+        HotelBudget = totalBudget*40/100;
       }
     }
     return HotelBudget;
@@ -216,6 +222,9 @@ getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
         CarBudget = totalBudget*15/100;
         break;
       }
+      default:{
+        CarBudget = totalBudget*10/100;
+      }
     }
     return CarBudget;
   }
@@ -235,6 +244,9 @@ getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
       case"Adventurous": {
         activityBudget = totalBudget*40/100;
         break;
+      }
+      default:{
+        activityBudget = totalBudget*10/100;
       }
     }
     return activityBudget;

@@ -2,7 +2,7 @@
     <div class="col-min text-header">
         <h4>
             <span>
-                <strong>My Trip to {{selectedDestination.name}} </strong>
+                <strong>My {{selectedDestination.name}} </strong>
             </span>
         </h4>
     </div>
@@ -11,7 +11,7 @@
 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item detail-list" name="fieldName" ngDefaultControl [(ngModel)]="selectedDestination">
     <mat-card class="home-card">
         <mat-card-content class="home-card-content">
-          <img mat-card-image
+          <img mat-card-image style="height:100px;"
             src="{{ selectedDestination.flight.logo }}"
             alt="{{ selectedDestination.flight.name }}">
           <div>
@@ -73,5 +73,6 @@
     </mat-card-content>
 </mat-card>
 </div>
-<button mat-raised-button color="primary" (click)="checkout()"  >Checkout</button>
+<br />
+<div class="checkout-button"><button mat-raised-button color="primary" (click)="checkout()" >Checkout</button></div>
 <router-outlet></router-outlet>

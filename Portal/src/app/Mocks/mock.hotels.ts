@@ -23,7 +23,7 @@ import { Hotel } from '../Model/Hotel';
       starRating:4,
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1167350/8640cd6f_z.jpg?w=400",
       rank:0,
-      tags:"Relexing"
+      tags:"Relaxing"
     },
     {
       name:"Residence Inn Las Vegas Airport",
@@ -34,7 +34,7 @@ import { Hotel } from '../Model/Hotel';
       starRating:3,
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1789007/00866cbb_z.jpg?w=400",
       rank:0,
-      tags:"Relexing"
+      tags:"Relaxing"
     },
     {
       name:"Hampton Inn & Suites Las Vegas Airport",
@@ -45,8 +45,33 @@ import { Hotel } from '../Model/Hotel';
       starRating:2,
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/36668/bbbdd7da_z.jpg?w=400",
       rank:0,
-      tags:"Relexing"
+      tags:"Luxury"
     },
+
+
+  {
+      name:"Delano Las Vegas At Mandalay Bay",
+      address:"3940 Las Vegas Blvd South, Las Vegas, NV, US, 89119",
+      city:"Las Vegas",
+      freeCancellation:false,
+      price:85,
+      starRating:5,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/3020717/acf40d75_z.jpg?w=200",
+      rank:0,
+      tags:"Luxury"
+    },
+    {
+      name:"Bellagio",
+      address:"3600 Las Vegas Blvd S,  Las Vegas, NV, US, 89109",
+      city:"Las Vegas",
+      freeCancellation:false,
+      price:111,
+      starRating:5,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/57426/12e205510a2aafc5d354afd1376b26f4.jpg?w=200",
+      rank:0,
+      tags:"Relaxing"
+    },
+
 
 
     {
@@ -80,7 +105,7 @@ import { Hotel } from '../Model/Hotel';
       starRating:3,
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/51848/85c48f5b_z.jpg?w=400",
       rank:0,
-      tags:"Relexing"
+      tags:"Relaxing"
     },
     {
       name:"Pacific Marina Inn Airport Hotel",
@@ -91,7 +116,7 @@ import { Hotel } from '../Model/Hotel';
       starRating:2,
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/90530/4d8f4f2b_z.jpg?w=400",
       rank:0,
-      tags:"Relexing"
+      tags:"Relaxing"
     },
 
     {
@@ -103,7 +128,7 @@ import { Hotel } from '../Model/Hotel';
       starRating:3,
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/342389/0c645a3f_z.jpg?w=400",
       rank:0,
-      tags:"Relexing"
+      tags:"Relaxing"
     },
     {
       name:"Clarion Inn",
@@ -114,7 +139,7 @@ import { Hotel } from '../Model/Hotel';
       starRating:3,
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/309115/672534ba_z.jpg?w=400",
       rank:0,
-      tags:"Relexing"
+      tags:"Relaxing"
     },
     {
       name:"Best Western Plus Eagleridge Inn & Suites",
@@ -125,7 +150,7 @@ import { Hotel } from '../Model/Hotel';
       starRating:2,
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/9941/d0aa0f40_z.jpg?w=400",
       rank:0,
-      tags:"Relexing"
+      tags:"Relaxing"
     },
     {
       name:"La Quinta Inn & Suites By Wyndham Pueblo",
@@ -136,7 +161,7 @@ import { Hotel } from '../Model/Hotel';
       starRating:2,
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/295046/49fc07da_z.jpg?w=400",
       rank:0,
-      tags:"Relexing"
+      tags:"Relaxing"
     },
 
     {
@@ -182,5 +207,151 @@ import { Hotel } from '../Model/Hotel';
       heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/309277/9dfd3aca_z.jpg?w=400",
       rank:0,
       tags:"Relaxing"
+    },
+
+
+
+
+
+
+  {
+      name:"JW Marriott Marquis Miami",
+      address:"255 Biscayne Boulevard Way,  Miami, FL, US, 33131",
+      city:"Miami",
+      freeCancellation:false,
+      price:250,
+      starRating:5,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/308144/5bed0825_z.jpg?w=200",
+      rank:0,
+      tags:"Luxury"
+    },
+    {
+      name:"Kimpton EPIC Hotel",
+      address:"270 Biscayne Blvd Way, Miami, FL, US, 33131",
+      city:"Miami",
+      freeCancellation:false,
+      price:202,
+      starRating:4,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/300794/2dd7051f_z.jpg?w=200",
+      rank:0,
+      tags:"Luxury"
+    },
+    {
+      name:"Four Seasons Hotel Miami",
+      address:"1435 Brickell Avenue, Miami, FL, US, 33131",
+      city:"Miami",
+      freeCancellation:false,
+      price:52,
+      starRating:4,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/27793/4095f638_z.jpg?w=200",
+      rank:0,
+      tags:"Relaxing"
+    },
+    {
+      name:"Faena Hotel Miami Beach",
+      address:"3201 Collins ave, Miami Beach, FL, US, 33140",      
+      city:"Miami",
+      freeCancellation:false,
+      price:60,
+      starRating:3,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1185338/240b0905_z.jpg?w=200",
+      rank:0,
+      tags:"Relaxing"
+    },
+
+    {
+      name:"The Setai",
+      address:"2001 Collins Ave, Miami Beach, FL, US, 33139",
+      city:"Miami",
+      freeCancellation:true,
+      price:332,
+      starRating:5,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/55464/17abb4de_z.jpg?w=200",
+      rank:0,
+      tags:"Luxury"
+    },
+    {
+      name:"Carillon Miami Wellness Resort",
+      address:"6801 Collins Ave, Miami Beach, FL, US, 33141",
+      city:"Miami",
+      freeCancellation:true,
+      price:190,
+      starRating:4,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1170924/12df4f5f_z.jpg?w=200",
+      rank:0,
+      tags:"Relaxing"
+    },
+    {
+      name:"The Towers At Lotte New York Palace",
+      address:"455 Madison Avenue, New York, NY, US, 10022",
+      city:"New York",
+      freeCancellation:true,
+      price:500,
+      starRating:5,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1188543/2207d47e_z.jpg?w=200",
+      rank:0,
+      tags:"Luxury"
+    },
+    {
+      name:"The Evelyn Hotel",
+      address:"7 E 27th St, New York, NY, US, 10016",
+      city:"New York",
+      freeCancellation:true,
+      price:100,
+      starRating:4,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1165159/7f6b29a9_z.jpg?w=200",
+      rank:0,
+      tags:"Luxury"
+    },
+
+    {
+      name:"The Roxy Hotel Tribeca",
+      address:"2 Avenue Of The Americas, New York, NY, US, 10013",
+      city:"New York",
+      freeCancellation:false,
+      price:150,
+      starRating:5,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/27952/ad34d219_z.jpg?w=200",
+      rank:0,
+      tags:"Luxury"
+    },
+    {
+      name:"Artezen Hotel",
+      address:"24 John Street, New York, NY, US, 10038",
+      freeCancellation:false,
+      city:"New York",
+      price:140,
+      starRating:5,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/3324336/7542051a_z.jpg?w=200",
+      rank:0,
+      tags:"Relaxing"
+    },
+    {
+      name:"Archer Hotel New York",
+      address:"45 West 38th St, New York, NY, US, 10018",
+      city:"New York",
+      freeCancellation:false,
+      price:167,
+      starRating:4,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/393860/b7c0d5be_z.jpg?w=200",
+      rank:0,
+      tags:"Relaxing"
+    },
+    {
+      name:"Sanctuary Hotel New York",
+      address:"132 West 47th Street, New York, NY, US, 10036",
+      city:"New York",
+      freeCancellation:true,
+      price:141,
+      starRating:5,
+      heroImage:"https://d3mj096p5q0e20.cloudfront.net/fi/EPS/313429/bad402db_z.jpg?w=200",
+      rank:0,
+      tags:"Relaxing"
     }
+
+
+
+
+
+
   ];
