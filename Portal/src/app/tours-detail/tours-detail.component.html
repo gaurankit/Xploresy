@@ -2,26 +2,70 @@
     <div class="col-min text-header">
         <h4>
             <span>
-                <strong>My Trip to {{id}} </strong>
+                <strong>My Trip to {{selectedDestination.name}} </strong>
             </span>
         </h4>
     </div>
 </div>
 
-<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" *ngFor = "let item of destinations;">
-  <mat-card class="home-card">
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" [[(ngModel)]="selectedDestination">
+    <mat-card class="home-card">
+        <mat-card-content class="home-card-content">
+          <img mat-card-image
+            src="{{ selectedDestination.flight.logo }}"
+            alt="{{ selectedDestination.flight.name }}">
+          <div>
+            <div>{{ selectedDestination.flight.airlineName }}</div>
+            <br />
+            <br />
+            <br />
+            <div class="trip-cost">${{ selectedDestination.flight.Price }}</div>
+          </div>
+        </mat-card-content>
+    </mat-card>
+    <mat-card class="home-card">
+        <mat-card-content class="home-card-content">
+          <img mat-card-image
+            src="{{ selectedDestination.hotel.heroImage }}"
+            alt="{{ selectedDestination.hotel.name }}">
+          <div>
+            <div>{{ selectedDestination.hotel.name }}</div>
+            <br />
+            <br />
+            <br />
+            <div class="trip-cost">${{ selectedDestination.hotel.price }}</div>
+          </div>
+        </mat-card-content>
+    </mat-card>
+
+<mat-card class="home-card">
     <mat-card-content class="home-card-content">
       <img mat-card-image
-        src="{{ item.image }}"
-        alt="{{ item.name }}">
+        src="{{ selectedDestination.car.heroImage }}"
+        alt="{{ selectedDestination.car.description }}">
       <div>
-        <div>{{ item.name }}</div>
+        <div>{{ selectedDestination.car.description }}</div>
         <br />
         <br />
         <br />
-        <div class="trip-cost">${{ item.cost }}</div>
+        <div class="trip-cost">${{ selectedDestination.car.Price }}</div>
+      </div>
+    </mat-card-content>
+</mat-card>
+<mat-card class="home-card">
+    <mat-card-content class="home-card-content">
+      <img mat-card-image
+        src="{{ selectedDestination.activity.heroImage }}"
+        alt="{{ selectedDestination.activity.name }}">
+      <div>
+        <div>{{ selectedDestination.activity.name }}</div>
+        <br />
+        <br />
+        <br />
+        <div class="trip-cost">${{ selectedDestination.activity.Price }}</div>
       </div>
     </mat-card-content>
 </mat-card>
 </div>
+<button mat-raised-button color="primary" (click)="checkout()"  >Checkout</button>
 <router-outlet></router-outlet>

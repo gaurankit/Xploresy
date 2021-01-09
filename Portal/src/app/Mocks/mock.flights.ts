@@ -17,7 +17,7 @@ import { Flight } from '../Model/Flight';
       freeChange:false,
       number:"DL2343",
       refundable:false,
-      logo:"",
+      logo:"https://knowtion-inc.com/wp-content/uploads/2017/03/Delta-Air-Lines-Logo.png",
       rank:0,
       tags:""
     },
@@ -35,7 +35,7 @@ import { Flight } from '../Model/Flight';
       freeChange:false,
       number:"AA2342",
       refundable:false,
-      logo:"",
+      logo:"https://s21.q4cdn.com/616071541/files/multimedia-gallery/assets/Logos/american-airlines/aa_aa__hrz_rgb_grd_pos.png",
       rank:0,
       tags:""
     },
@@ -53,7 +53,7 @@ import { Flight } from '../Model/Flight';
       freeChange:true,
       number:"AA5689",
       refundable:true,
-      logo:"",
+      logo:"https://s21.q4cdn.com/616071541/files/multimedia-gallery/assets/Logos/american-airlines/aa_aa__hrz_rgb_grd_pos.png",
       rank:0,
       tags:""
     },
@@ -71,7 +71,7 @@ import { Flight } from '../Model/Flight';
       freeChange:true,
       number:"UA5600",
       refundable:false,
-      logo:"",
+      logo:"https://seeklogo.net/wp-content/uploads/2017/04/united-airlines-logo-01.png",
       rank:0,
       tags:""
     }
