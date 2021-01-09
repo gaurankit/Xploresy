@@ -9,7 +9,7 @@ import { RecommendationService } from "./Services/recommendation.service";
 })
 
 export class AppComponent implements OnInit {
-  title = 'Vacation Planner';
+  title = 'WOW - Home';
 
   constructor(private recommendationService: RecommendationService) { }
 

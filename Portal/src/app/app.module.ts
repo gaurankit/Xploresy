@@ -7,7 +7,8 @@ import { RouterModule } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ToursListComponent } from './tours-list/tours-list.component';
-import { SearchComponent } from './home/search.component'
+import { SearchComponent } from './home/search.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
 
 
 @NgModule({
@@ -20,10 +21,8 @@ import { SearchComponent } from './home/search.component'
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    MatButtonModule
-    // RouterModule.forRoot([
-    //   {path: 'results', component: ToursListComponent}
-    // ])
+    MatButtonModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
