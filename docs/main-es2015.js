@@ -35,85 +35,185 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ACTIVITIES", function() { return ACTIVITIES; });
 const ACTIVITIES = [
     {
-        name: "Fly LINQ Zipline at The LINQ",
+        name: "Nightclub Tour By party bus",
         city: "Las Vegas",
-        description: "Try the newest adrenaline-fueled attraction in Las Vegas by soaring down the Fly LINQ zipline. Take in the views from 12 stories above the LINQ promenade on a zipline that begins near Las Vegas Boulevard and ends at the High Roller. Position yourself in a seated position then enjoy the ride with others on ziplines next to you.",
-        Price: 25.99,
+        description: "This is a typical itinerary for this productStop At: Tao Nightclub, Venetian Hotel, Las Vegas, NVVIP hosted entry into the nightclub; free cover charge.Duration: 1 hour 15 minutesStop At: The Las Vegas Strip, S Las Vegas Blvd, Las Vegas, NV 89109, USA1 Hour tour in a decked out party bus with complimentary mixed drinksDuration: 55 minutesStop At: Marquee Nightclub & Dayclub at The Cosmopolitan of Las Vegas, 3708 Las Vegas Blvd S, Las Vegas, NV 89109-4309VIP hosted entry into the nightclub; free cover charge.Duration: 2 hours 30 minutes",
+        Price: 35,
         type: "",
-        heroImage: "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/90/75/11.jpg",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/36/c8/49.jpg",
         rank: 0,
-        tags: "Adventurous"
+        tags: "Luxury"
     },
     {
-        name: "Las Vegas Hot Air Balloon Ride",
+        name: "Las Vegas Hip Hop Club Crawl By Party Bus",
         city: "Las Vegas",
-        description: "Fly over the Pahrump valley in a colorful hot air balloon on this exciting tour. Get a bird's-eye view of the stunning desert and mountain scenery, located about an hour away from the Las Vegas Strip. Soar as high as 10,000 feet—one of the highest flights available in the area—for unparalleled views. Upon landing, enjoy a Champagne toast to commemorate your scenic flight.",
-        Price: 212,
+        description: "This is a typical itinerary for this productStop At: The Strip, S Las Vegas Blvd, Las Vegas, NV 89109We travel between clubs at different hotels on party buses.Duration: 1 hour",
+        Price: 47.15,
         type: "",
-        heroImage: "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/49/3f/12.jpg",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/90/05/a7.jpg",
         rank: 0,
-        tags: "Adventurous"
+        tags: "Luxury"
     },
     {
-        name: "Honolulu Downtown Walking Tour",
-        city: "Honolulu",
-        description: "Welcome to Hawaii’s ONLY free tour created by and operated by locals! On this guided walking tour, you will learn about the history of Hawaii and see some of the 50th State’s renowned landmarks. Meet us at the King Kamehameha Statue in Downtown Honolulu and embark on a journey with one of our friendly, informative local tour guides. You will leave the tour with a better understanding of the true spirit of aloha rooted in Hawaiian history and orally passed down through generations from the ancient tribal Hawaiian times to the sugar plantation period to its current status as the world-renowned paradise destination on everyone’s bucket list!",
-        Price: 5.99,
+        name: "Las Vegas Strip Ultra Limousine Tour",
+        city: "Las Vegas",
+        description: "This is a typical itinerary for this productStop At: Fremont Street Experience, 425 Fremont Street, Las Vegas, NV 89101-5620See the beautiful overhead light show of the down town corridor. Duration: 20 minutesPass By: The Strip, S Las Vegas Blvd, Las Vegas, NV 89109The perfect way to see the lights and sights of the Las Vegas strip.Stop At: Fountains of Bellagio, 3600 Las Vegas Blvd S Bellagio Hotel & Casino, Las Vegas, NV 89109-4303Get out of the limousine and see the beautiful dancing water fountains of the Bellagio.Duration: 15 minutesStop At: Mirage Volcano, 3400 Las Vegas Blvd S Mirage Hotel & Casino, Las Vegas, NV 89109-8907Get out of the limousine and see the fiery volcano eruption. Duration: 15 minutesStop At: Welcome to Fabulous Las Vegas Sign, 5100 Las Vegas Blvd S, Las Vegas, NV 89119-3232Who doesn't love a great photo op. Show off in style when you pull up to the iconic Welcome to Las Vegas sign and take some fabulous photos.Duration: 15 minutes",
+        Price: 247,
         type: "",
-        heroImage: "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/a3/48/a7.jpg",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/6c/6f/cf.jpg",
         rank: 0,
-        tags: "Relaxing"
+        tags: "Luxury"
     },
     {
-        name: "Pearl Harbor, Missouri, Arizona, Punchbowl and City Tour",
-        city: "Honolulu",
-        description: "Explore the sites of Pearl Harbor in Honolulu on this tour from Waikiki. You'll receive skip-the-line access for a guided tour of the USS Missouri and visit the USS Arizona Memorial and the Pearl Harbor Visitor Center to learn about the Japanese attacks in 1941. Plus, enjoy a sightseeing tour of Honolulu to see attractions such as the King Kamehameha Statue and the National Memorial Cemetery of the Pacific (Punchbowl Cemetery).",
-        Price: 107,
+        name: "Stratosphere Tower Observation Deck Ticket",
+        city: "Las Vegas",
+        description: "Stratosphere Tower, 2000 Las Vegas Blvd S Stratosphere Casino Hotel & Tower, Las Vegas, NV 89104-2507At the north end of the Las Vegas Strip stands one of the most iconic landmarks in Las Vegas — Stratosphere Tower.With your ticket, head up to the 1,149-foot Observation Deck, the second-tallest freestanding observation tower in the western hemisphere. Once you have made your way up more than 100 flights in the high-speed elevator, you can check out both the indoor and outdoor decks. The indoor deck features angled windows and air-conditioning while the outdoor deck allows you scan the city through viewfinders or take a walk around the tower. This is where you will get the most unobstructed views of Las Vegas Valley below you.When you're ready for a cocktail, head to the Air Bar, the highest bar in Las Vegas. (Food and drinks are at your own expense.) Duration: 4 hoursVisit: X Scream at the Stratosphere, 2000 Las Vegas Blvd S, Las Vegas, NV 89104-2507If you're looking for more thrills, upgrade your visit when booking to include the Unlimited Ride Pass, which gives you access to the three rides atop the tower: X-Scream, a 27-foot (8-meter) catapult over the edge of the tower that leaves you dangling weightlessly 109 stories in the airDuration: 20 minutesVisit: Thrill Rides, 2000 Las Vegas Blvd S, Las Vegas, NV 89104Insanity, a giant mechanical arm that holds you 900 feet (274 meters) above the Strip and spins you 64 feet (20 meters) over the edge of the towerDuration: 20 minutesVisit: Big Shot at the Stratosphere, 2000 Las Vegas Blvd S, Las Vegas, NV 89104-2507Big Shot, a 160-foot (49-meter) blast straight up in the air from the top of the tower, providing a G-force experience as you freefall back to the launchpad.Duration: 20 minutesVisit: SkyJump, 2000 Las Vegas Blvd S Stratosphere Tower, Las Vegas, NV 89104Or, for a truly heart-pumping, adrenaline-charged experience, upgrade to the SkyJump and zoom down to Earth at speeds up to 40 mph (63 kph) from 108 stories above the Strip.Duration: 20 minutes",
+        Price: 20,
         type: "",
-        heroImage: "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/70/08/c8.jpg",
-        rank: 0,
-        tags: "Relaxing"
-    },
-    {
-        name: "Jeep Tour - Foothills & Garden of the Gods",
-        city: "Colorado",
-        description: "Take in the natural landscape of Colorado Springs without the hassle of navigating on your own during an open–air jeep tour of the foothills. Going with a guide allows you to visit popular landmarks as well as more secluded area via dirt roads that are often untouched by visitors. While learning about the history and geology of the area, guests enjoy a comfortable ride with water, snacks, and blankets included.",
-        Price: 108,
-        type: "",
-        heroImage: "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/80/7f/f5.jpg",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/20/6b/f3.jpg",
         rank: 0,
         tags: "Relaxing"
     },
     {
-        name: "Mild Cottonwood Family Float",
-        city: "Colorado",
-        description: "Fancy floating with the family down the fantastic Arkansas River against the backdrop of the remarkable Rocky Mountains? Alighting from Coaldale, this family-friendly trip offers travelers a gentle taste of the classic rafting experience, including easy Class II - III rapids. All gear and comprehensive safety briefings are provided, ensuring an exhilarating and unforgettable experience for all travelers aged 5 and over.",
+        name: "Happy Hour On The High Roller At The LINQ",
+        city: "Las Vegas",
+        description: "High Roller, 3545 Las Vegas Blvd South The Linq Promenade, Las Vegas, NV 89109-8978There's happy hour on the Strip, and then there's happy hour above the Strip. Hop in an climate-controlled pod and enjoy access to a full bar for the entire 30-minute revolution. The only thing you have to bring besides your ticket? Proof that you're 21 years old or older. Drink in hand, admire the neon-lit landscape as a recording of a witty narrator shares trivia about the city’s landmarks (only here will you find pyramids next to the Eiffel Tower). After the ride, browse in the Sky Shop for a reminder of your spin through Sin City’s celestial skies in the form of commemorative glassware or a tiny version of the High Roller itself.Duration: 30 minutesVisit: The LINQ Promenade, 3545 Las Vegas Blvd S between The LINQ Hotel & Casino and Flamingo Las Vegas, Las Vegas, NV 89109-8921The observation wheel happens to be situated smack in the center of Las Vegas’ newest entertainment quarter, The LINQ. Graze on hearty American comfort food at Hash House A Go Go, or munch upscale Mexican fare at Chayo Mexican Kitchen & Tequila Bar. Not hungry? Head to the Brooklyn Bowl to knock down some pins, or browse a variety of shops in the area.Duration: 30 minutes",
+        Price: 35,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/6f/f2/0e.jpg",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "Small-Group Hoover Dam VIP Tour From Las Vegas",
+        city: "Las Vegas",
+        description: "This is a typical itinerary for this productPass By: Boulder City/Hoover Dam Museum, 1305 Arizona St, Boulder City, NV 89005-2613Your small-group tour starts with pick up from your Las Vegas Strip or downtown hotel at approximately 8am. Head out with your certified interpretive guide on a tour that includes the dam's Visitor Center with its fascinating Hoover Dam movie and historical displays. In addition, the tour takes you in an elevator down over 500 ft. to the generator room located on the Nevada side of the dam. Stop At: Hoover Dam Access Road, Boulder City, NV 89109Located in Black Canyon on the Colorado River, the Hoover Dam was once the largest dam in the world. It is an outstanding achievement, noteworthy not only for its enormous dimensions, complex design and intricate construction, but also for its illustration of mans outstanding ability to overcome the desert's summer sun, the vagaries of a treacherous river and the extreme hazards of great heights on the chasm's sheer walls. The building of the dam also created Lake Mead, North America's largest man-made reservoir.Duration: 1 hour 30 minutesPass By: Hoover Dam Bypass, U.S. Route 93, Las Vegas, NVSee the impressive Mike O'Callaghan-Pat Tillman Memorial BridgeStop At: Colorado River, NevadaSee the wondrous Colorado River from Hoover Dam Duration: 15 minutesStop At: Lake Mead National Recreation Area, 10 Lakeshore Rd, NV 89005Before returning to Las Vegas, enjoy a stop at a local park where herds of Big Horn Sheep often come down from the surrounding mountains (seasonal) to graze on the sweet grass.As part of your tour, you will receive a complimentary guide on the geology and history of the dam, Native American history, local flora and fauna information and many other interesting tidbits!Duration: 10 minutes",
+        Price: 85,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/fe/f9/a6.jpg",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "60 Min Sightseeing Cruise On A Yacht To View The Statue Of Liberty",
+        city: "New York",
+        description: "This is a typical itinerary for this productPass By: Statue of Liberty, Liberty Island, New York City, NY 10004Relax and enjoy your narrated 60min cruise to view the Statue of Liberty. Our yacht will take you within 100 feet of Lady Liberty. Make use of our indoor and outdoor seating as we travel along the east river. Your tour will includes views of New York's famous skyline, including The Freedom Tower, Brooklyn Bridge, Manhattan bridge, Governor's Island, Battery Park, Ellis Island and so much more. Pass By: Brooklyn Bridge, New York City, NY 10038Fabulous photo opportunity Pass By: South Street Seaport Historic District, 12-14 Fulton St. between Water & South Streets, NYGreat photo opportunity",
+        Price: 15,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/66/85/e8.jpg",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "American Museum Of Natural History Admission Ticket",
+        city: "New York",
+        description: "American Museum of Natural History, 79th Street Central Park West, New York City, NY 10024The American Museum of Natural History is one of the world’s preeminent scientific and cultural institutions. Since its founding in 1869, the Museum has advanced its global mission to discover, interpret, and disseminate information about human cultures, the natural world, and the universe through a wide-ranging program of scientific research, education, and exhibition. Duration: 3 hoursVisit: Hayden Planetarium, 200 Central Park W American Museum of Natural History, New York City, NY 10024-5102This planetarium is a virtual joyride through the universe.Duration: 30 minutes",
+        Price: 19,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/66/85/e8.jpg",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "New York Rooftop Lounge Experience",
+        city: "New York",
+        description: "This is a typical itinerary for this productStop At: Paramount Hotel, 235 W 46th St, New York, NY 10036, USAMeet your guide at Paramount Hotel located at 235 46th Street Duration: 15 minutesStop At: 230 FIFTH ROOFTOP BAR NYC, 230 5th Ave Corner 27th street on 5th ave, New York City, NY 10001-7704Your tour includes stops at three popular New York City rooftops. Please note rooftops will vary each tour.Duration: 1 hourStop At: Sky Room, 330 W 40th St, New York City, NY 10018-1404Your tour includes stops at three popular New York City rooftops. Please note rooftops will vary each tour.Duration: 1 hourStop At: PH-D Rooftop Lounge, 355 W 16th St Dream Downtown, New York City, NY 10011-5902Your tour includes stops at three popular New York City rooftops. Please note rooftops will vary each tour.Duration: 1 hour",
+        Price: 68,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/73/06/be.jpg",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "Private Carriage Ride In Central Park",
+        city: "New York",
+        description: "This is a typical itinerary for this productStop At: CENTRAL PARK CARRIAGES NEW YORK OFFICIAL, 7th Ave. Central Park South, New York, NY 10019, USAHorse and carriage ride in Central Park.Duration: 45 minutes",
+        Price: 68,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/f9/39/48.jpg",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "Taste Of NYC Helicopter Tour",
+        city: "New York",
+        description: "This is a typical itinerary for this productPass By: Ellis Island, New York Harbor, New York City, NY 10017The best way to experience the symbols and sights of America’s freedom is the Taste of NYC Tour. See the Statue of Liberty eye to eye, take in a bird’s eye view of Ellis and Governor’s Island, fly over South Street Seaport and check out the Brooklyn and Manhattan Bridges on the way to visiting the Wall Street Financial Center.Pass By: Brooklyn Bridge, New York City, NY 10038You will also see the South Street Seaport from the sky, cruise by the Brooklyn and Manhattan Bridges, and the famed Wall Street Financial Center on this much loved New York helicopter tour.Pass By: Wall Street, New York City, NY 10005You will also see the South Street Seaport from the sky, cruise by the Brooklyn and Manhattan Bridges, and the famed Wall Street Financial Center on this much loved New York helicopter tour.",
+        Price: 120,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/26/44/b2.jpg",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "American Dream Future Of Retail Tour",
+        city: "New York",
+        description: "This is a typical itinerary for this productStop At: Nickelodeon Universe at American Dream, 1 American Dream Way, East Rutherford, NJ 07073Along the tour we will see the new Nickelodeon Universe theme park INSIDE the American Dream shopping experience.Duration: 15 minutesStop At: 1 American Dream Way, East Rutherford, NJ 07073American Dream has incorporated over 450 retail businesses side-by-side with engaging family-friendly experiences. Ski, shop, swim, eat, and play all in one amazing location!Duration: 3 hours",
+        Price: 367,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/9e/86/f8.jpg",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "Miami Art Deco Tour: Architecture, History, Fashion And Cinema",
+        city: "Miami",
+        description: "This is a typical itinerary for this productPass By: Art Deco Historic District, 1001 Ocean Dr, Miami Beach, FL 33139, USAYou will start this tour in the art deco neighborhood Pass By: Ocean Drive, Ocean Dr, Miami Beach, FL 33139We will keep on walking and listen to all the anecdotes around the story of Miami Art Deco Story, as a scenario for film industry, TV and off course fashion , with Versace story.Pass By: Miami Beach, Miami Beach, Florida.",
+        Price: 35,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/18/ee/21.jpg",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "The Miami Sightseeing Day Pass: 35+ Sun-Soaked Attractions & Tours",
+        city: "Miami",
+        description: "Coral Springs Museum of Art, 2855 Coral Springs Dr Suite A, Coral Springs, FL 33065-3825With exhibits that change about four times each year, this museum highlights present day, nationally recognized and Florida artists who create Traditional, Modern, Postmodern and Digital art. Upcoming artists include Alisa Grodsky, a caricaturist renowned for her work with Disney and Sesame Street, Stan Slutsky, who creates multi-dimensional, brilliantly colored optical illusions, and Virginia Fifield, best known for her series of super-realistic charcoal drawings of animals. Any time of the year you'll be sure to catch unusual, modern artwork or special events.Duration: 2 hoursVisit: Everglades National Park, 40001 State Road 9336, Florida City, FL 33034-6733A thrilling airboat adventure at Everglades Holiday Park is entertaining and enlightening for visitors of all ages.",
+        Price: 87,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/b5/be/1b.jpg",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "Food Tour Of Miami's South Beach",
+        city: "Miami",
+        description: "Your small-group food tour of Miami begins in beautiful South Beach where you will get an in-depth presentation of culinary history paired with local specialties! Discover the melting pot that is Miami and enjoy samples of food from around the globe. On this tour, you will taste bite-sized specialties from American, Cuban, French, Haitian, Italian, Mediterranean and Peruvian cuisines.Stop at neighborhood restaurants and ethnic eateries and chat with the owners about their offerings. Throughout your tour, your passionate guide points out architectural landmarks and little-known facts about the SoBe area. Expect to walk about 1.6 miles (2.6 km) during your 3-hour tour. By the time your South Beach Miami food tour concludes, you'll have tasted some local food favorites and learned there's a lot more to Miami than the beach!Please note that restaurants are subject to change based on availability as well as meeting location.",
         Price: 64,
         type: "",
-        heroImage: "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/0b/be.jpg",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/74/99/a2.jpg",
         rank: 0,
         tags: "Relaxing"
     },
     {
-        name: "New Orleans Swamp and Bayou Boat Tour (Self Transport)",
-        city: "New Orleans",
-        description: "Discover one of Louisiana’s last preserved wetlands on a Honey Island Swamp boat tour. After making a short drive to Slidell, travel deep into the secluded swamp across Lake Pontchartrain to view native wildlife and witness a remote Cajun village only accessible by boat. Enjoy guided commentary on Cajun culture and the lush swamps as you spot alligators, wild boar, snakes, and native birds. This tour does not include transportation.",
-        Price: 25.36,
+        name: "South Beach Nightclub Party Package",
+        city: "Miami",
+        description: "This South Beach Miami Nightclub Party Package is a great way to celebrate a birthday, a bachelor/bachelorette party, or to just have a fun night out. Enjoy a 1.5-hour open bar at Oceans Ten South Beach, the only open-bar, pre-party location with live entertainment seven days a week. Then, hop in a party bus or limo and head to one of South Beach's exclusive nightclubs, like Cameo, Nikki Beach Miami, Mansion Nightclub, Dream South Beach, IVY Nightclub, or another. Nightclubs rotate on a daily basis.Each party package includes a 1.5-hour open bar from 10pm - 11:30pm, plus party bus or limo service to the selected club with little or no waiting time.",
+        Price: 64,
         type: "",
-        heroImage: "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/38/cd/26.jpg",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/70/52/3f.jpg",
         rank: 0,
-        tags: "Adventurous"
+        tags: "Luxury"
     },
     {
-        name: "Three Hour City Tour of New Orleans",
-        city: "New Orleans",
-        description: "Although not your typical tour of New Orleans, this expedition through the Big Easy takes in some of the major points of interest, including the French Quarter, Treme, the Esplanade, the Garden District and the Metairie Cemetery. Relax in air-conditioned minibus comfort, and listen as a guide leads you through one of America's most historic cities.",
-        Price: 36,
+        name: "Miami: Evening Hidden South Beach And Happy Hour Small Group Tour",
+        city: "Miami",
+        description: "This is a typical itinerary for this productStop At: Miami Urban Adventures, 429 Lenox Ave, Miami Beach, FL 33139, USAFun, sun, music, sand, palm trees and beautiful people have come to define iconic South Beach, USA. You’ll witness the sights and sounds, and your local guide will take you out of the tourist crunch for a bit to check out a perspective of South Beach rarely seen by visitors. Fun is guaranteed and time will fly by as the sun sets on this 2.5-hour tour. Duration: 2 hours 30 minutesPass By: Ocean Drive, Ocean Dr, Miami Beach, FL 33139Start your tour at a South Beach classic location on Ocean Drive, in the heart of the action. Pass By: Miami Beach Boardwalk, Miami Beach, FLAfter meeting your guide, you’ll make your way down this photogenic street and hear stories on the history of Miami Beach and how this place evolved into the trendy and stylish place it is today. Your tour will take a turn inland as your guide introduces you to the local side of this touristy neighborhood. Hear the immigration story of South Beach, both past and present, along with some legendary boxing history where you’d least expect it. We hope you’ve arrived a little hungry because your first few stops on the tour will highlight the best of South Beach Latin food. From a spicy Haitian dish, to some Cuban street food classics, to some coffee at an old-school neighborhood favorite, and/or a beloved South American snack, you’ll discover a local side to South Beach you never realized existed. Pass By: Collins Avenue, 15000, Miami Beach, FLYour guide will lead you back toward the water and down Collins Street, one of Miami’s most historically preserved sections. It’s here that you’ll discover the classic Art Deco architecture, see the art scene at its finest, and get a feel for the character that uniquely defines Miami Beach. It’ll be just about time to cool down, and what better way than with a refreshing tropical cocktail… next to a pool… on the roof…. overlooking the Atlantic Ocean and with views of the Miami skyline?! Book the tour at the right time of year, and you’ll be able to catch the sunset from this hidden perch that very few tourists discover on their own. After this relaxing stop, come back down to Earth and follow your guide to discover a famous mansion, along with a couple more photo ops along the way. Pass By: South Beach, Ocean Drive, Miami Beach, FL 33139Then it’s time to hit the beach! Kick off your shoes and join the locals on the sand during the best time of day to be there (weather permitting, of course). Feel the sand between your toes as you hear about the beach culture, the history of South Beach, and its local quirks. Take in the evening breeze, and have some fun with a beach activity. Maybe a salsa lesson? A volleyball match? A game of Truth or Dare? Your guide will choose his/her favorite, and the fun is guaranteed. Your tour ends with a beer included at one of the most iconic bars in Miami. Launch your night out in SoBe with some great tunes, a great atmosphere and maybe even a few dance moves. * Note: The order of activities on the itinerary will vary depending on the time of year, and some will be weather-dependent. In the event of inclement weather, don’t worry, we’ll plan some fun alternatives",
+        Price: 80,
         type: "",
-        heroImage: "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/74/b5/1e.jpg",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/71/9c/4a.jpg",
         rank: 0,
-        tags: "Relaxing"
-    }
+        tags: "Luxury"
+    },
+    {
+        name: "Fort Lauderdale Sailing Charter",
+        city: "Miami",
+        description: "This is a typical itinerary for this productStop At: A Day on the Water, 937 Mandarin isle, Fort Lauderdale, FL 33315Your charter will begin and end at a private residence. We will board with group pictures to remember your day. Depending on the tour selected, our Sailing Charters are four hours or two-hours. Your host will be Captain Dan, a licensed boat captain with over 20 years of local sailing experience. You will be provided a variety of options based on your groups’ preference and weather. We welcome Anniversaries, Birthday Parties, Bachelor and Bachelorette wedding parties, Engagement experience, Picnics, sunset date nights or just chilling.You may want to ride the bow in a bean bag chair and sip a cocktails, sail in the Atlantic Ocean, or swim and snorkel. You may want to drive the boat under sail and learn how to sail. The day belongs to you. The sailboat is well equipped will all necessary safety equipment; Your Safety is our responsibility.Duration: 4 hours",
+        Price: 128,
+        type: "",
+        heroImage: "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/d6/39/03.jpg",
+        rank: 0,
+        tags: "Luxury"
+    },
 ];
 
 
@@ -133,39 +233,193 @@ const CARS = [
     {
         description: "Compact Car Name:B FORD FOCUS or similar",
         carType: "Compact",
-        Price: 180,
-        pickUpLocation: "Colorado",
-        pickUpDateTime: new Date(2020, 1, 25),
-        dropOffLocation: "Colorado",
-        dropOffDateTime: new Date(2020, 1, 28),
-        freeCancellation: false,
+        Price: 124,
+        pickUpLocation: "Las Vegas",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Las Vegas",
+        dropOffDateTime: new Date(2020, 4, 4),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSCCAR999.jpg",
+        duration: 4,
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        description: "Compact Car Name:B FORD FOCUS or similar",
+        carType: "Compact",
+        Price: 91,
+        pickUpLocation: "Las Vegas",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Las Vegas",
+        dropOffDateTime: new Date(2020, 4, 3),
+        freeCancellation: true,
         heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSCCAR999.jpg",
         duration: 3,
         rank: 0,
         tags: "Relaxing"
     },
     {
+        description: "Compact Car Name:B FORD FOCUS or similar",
+        carType: "Compact",
+        Price: 70,
+        pickUpLocation: "Las Vegas",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Las Vegas",
+        dropOffDateTime: new Date(2020, 4, 2),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSCCAR999.jpg",
+        duration: 2,
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
         description: "Luxury Car Name:I CHRYSLER 300 or similar",
         carType: "Luxury",
-        Price: 250,
+        Price: 367,
         pickUpLocation: "Las Vegas",
-        pickUpDateTime: new Date(2020, 1, 25),
+        pickUpDateTime: new Date(2020, 4, 1),
         dropOffLocation: "Las Vegas",
-        dropOffDateTime: new Date(2020, 1, 28),
-        freeCancellation: false,
+        dropOffDateTime: new Date(2020, 4, 4),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSLCAR999.jpg",
+        duration: 4,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Luxury Car Name:I CHRYSLER 300 or similar",
+        carType: "Luxury",
+        Price: 267,
+        pickUpLocation: "Las Vegas",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Las Vegas",
+        dropOffDateTime: new Date(2020, 4, 3),
+        freeCancellation: true,
         heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSLCAR999.jpg",
         duration: 3,
         rank: 0,
         tags: "Luxury"
     },
     {
+        description: "Luxury Car Name:I CHRYSLER 300 or similar",
+        carType: "Luxury",
+        Price: 146,
+        pickUpLocation: "Las Vegas",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Las Vegas",
+        dropOffDateTime: new Date(2020, 4, 2),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSLCAR999.jpg",
+        duration: 2,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Luxury Car Name:MASERATI GHIBLI or similar",
+        carType: "Luxury",
+        Price: 413,
+        pickUpLocation: "Las Vegas",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Las Vegas",
+        dropOffDateTime: new Date(2020, 4, 4),
+        freeCancellation: true,
+        heroImage: "https://assets.gcs.ehi.com/content/enterprise_cros/data/vehicle/bookingCountries/US/CARS/WCAR.doi.320.low.imageLargeSideProfileNodePath.png/1492780399640.png",
+        duration: 4,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Luxury Car Name:MASERATI GHIBLI or similar",
+        carType: "Luxury",
+        Price: 310,
+        pickUpLocation: "Las Vegas",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Las Vegas",
+        dropOffDateTime: new Date(2020, 4, 3),
+        freeCancellation: true,
+        heroImage: "https://assets.gcs.ehi.com/content/enterprise_cros/data/vehicle/bookingCountries/US/CARS/WCAR.doi.320.low.imageLargeSideProfileNodePath.png/1492780399640.png",
+        duration: 3,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Luxury Car Name:MASERATI GHIBLI or similar",
+        carType: "Luxury",
+        Price: 207,
+        pickUpLocation: "Las Vegas",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Las Vegas",
+        dropOffDateTime: new Date(2020, 4, 2),
+        freeCancellation: true,
+        heroImage: "https://assets.gcs.ehi.com/content/enterprise_cros/data/vehicle/bookingCountries/US/CARS/WCAR.doi.320.low.imageLargeSideProfileNodePath.png/1492780399640.png",
+        duration: 2,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Full Size Car Name:CHEVROLET MALIBU or similar",
+        carType: "Full Size",
+        Price: 243,
+        pickUpLocation: "Miami",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Miami",
+        dropOffDateTime: new Date(2020, 4, 4),
+        freeCancellation: false,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSFCAR999.jpg",
+        duration: 4,
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        description: "Full Size Car Name:CHEVROLET MALIBU or similar",
+        carType: "Full Size",
+        Price: 182,
+        pickUpLocation: "Miami",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Miami",
+        dropOffDateTime: new Date(2020, 4, 3),
+        freeCancellation: false,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSFCAR999.jpg",
+        duration: 3,
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        description: "Convertible Car Name:FORD MUSTANG CONVERTIBLE or similar",
+        carType: "Convertible",
+        Price: 128,
+        pickUpLocation: "Miami",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Miami",
+        dropOffDateTime: new Date(2020, 4, 2),
+        freeCancellation: false,
+        heroImage: "https://assets.gcs.ehi.com/content/alamo/data/vehicle/bookingCountries/US/CARS/STAR.doi.320.low.imageLargeSideProfileNodePath.png/1543605919377.png",
+        duration: 2,
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
         description: "Premium Car Name:G BUICK REGAL or similar",
         carType: "Premium",
-        Price: 348,
-        pickUpLocation: "Honolulu",
-        pickUpDateTime: new Date(2020, 1, 25),
-        dropOffLocation: "Honolulu",
-        dropOffDateTime: new Date(2020, 1, 28),
+        Price: 318,
+        pickUpLocation: "Miami",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Miami",
+        dropOffDateTime: new Date(2020, 4, 4),
+        freeCancellation: false,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSPCAR999.jpg",
+        duration: 4,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Premium Car Name:G BUICK REGAL or similar",
+        carType: "Premium",
+        Price: 239,
+        pickUpLocation: "Miami",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Miami",
+        dropOffDateTime: new Date(2020, 4, 3),
         freeCancellation: false,
         heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSPCAR999.jpg",
         duration: 3,
@@ -173,19 +427,145 @@ const CARS = [
         tags: "Luxury"
     },
     {
-        description: "Economy Car Name:Group A - Ford Fiesta or similar",
+        description: "Premium Car Name:G BUICK REGAL or similar",
         carType: "Premium",
-        Price: 225,
-        pickUpLocation: "New Orleans",
-        pickUpDateTime: new Date(2020, 1, 25),
-        dropOffLocation: "New Orleans",
-        dropOffDateTime: new Date(2020, 1, 28),
+        Price: 159,
+        pickUpLocation: "Miami",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "Miami",
+        dropOffDateTime: new Date(2020, 4, 2),
         freeCancellation: false,
-        heroImage: "https://www.avis.com/content/dam/cars/l/2019/ford/2019-ford-fiesta-se-5door-2wd-hatchback-grey.png",
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSPCAR999.jpg",
+        duration: 2,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Compact Car Name:B FORD FOCUS or similar",
+        carType: "Compact",
+        Price: 124,
+        pickUpLocation: "New York",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "New York",
+        dropOffDateTime: new Date(2020, 4, 4),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSCCAR999.jpg",
+        duration: 4,
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        description: "Compact Car Name:B FORD FOCUS or similar",
+        carType: "Compact",
+        Price: 91,
+        pickUpLocation: "New York",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "New York",
+        dropOffDateTime: new Date(2020, 4, 3),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSCCAR999.jpg",
         duration: 3,
         rank: 0,
         tags: "Relaxing"
-    }
+    },
+    {
+        description: "Compact Car Name:B FORD FOCUS or similar",
+        carType: "Compact",
+        Price: 70,
+        pickUpLocation: "New York",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "New York",
+        dropOffDateTime: new Date(2020, 4, 2),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSCCAR999.jpg",
+        duration: 2,
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        description: "Luxury Car Name:I CHRYSLER 300 or similar",
+        carType: "Luxury",
+        Price: 367,
+        pickUpLocation: "New York",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "New York",
+        dropOffDateTime: new Date(2020, 4, 4),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSLCAR999.jpg",
+        duration: 4,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Luxury Car Name:I CHRYSLER 300 or similar",
+        carType: "Luxury",
+        Price: 267,
+        pickUpLocation: "New York",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "New York",
+        dropOffDateTime: new Date(2020, 4, 3),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSLCAR999.jpg",
+        duration: 3,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Luxury Car Name:I CHRYSLER 300 or similar",
+        carType: "Luxury",
+        Price: 146,
+        pickUpLocation: "New York",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "New York",
+        dropOffDateTime: new Date(2020, 4, 2),
+        freeCancellation: true,
+        heroImage: "https://d3lfne4jfvw8cp.cloudfront.net/Cars/ZE/ZEUSLCAR999.jpg",
+        duration: 2,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Luxury Car Name:MASERATI GHIBLI or similar",
+        carType: "Luxury",
+        Price: 413,
+        pickUpLocation: "New York",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "New York",
+        dropOffDateTime: new Date(2020, 4, 4),
+        freeCancellation: true,
+        heroImage: "https://assets.gcs.ehi.com/content/enterprise_cros/data/vehicle/bookingCountries/US/CARS/WCAR.doi.320.low.imageLargeSideProfileNodePath.png/1492780399640.png",
+        duration: 4,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Luxury Car Name:MASERATI GHIBLI or similar",
+        carType: "Luxury",
+        Price: 310,
+        pickUpLocation: "New York",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "New York",
+        dropOffDateTime: new Date(2020, 4, 3),
+        freeCancellation: true,
+        heroImage: "https://assets.gcs.ehi.com/content/enterprise_cros/data/vehicle/bookingCountries/US/CARS/WCAR.doi.320.low.imageLargeSideProfileNodePath.png/1492780399640.png",
+        duration: 3,
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        description: "Luxury Car Name:MASERATI GHIBLI or similar",
+        carType: "Luxury",
+        Price: 207,
+        pickUpLocation: "New York",
+        pickUpDateTime: new Date(2020, 4, 1),
+        dropOffLocation: "New York",
+        dropOffDateTime: new Date(2020, 4, 2),
+        freeCancellation: true,
+        heroImage: "https://assets.gcs.ehi.com/content/enterprise_cros/data/vehicle/bookingCountries/US/CARS/WCAR.doi.320.low.imageLargeSideProfileNodePath.png/1492780399640.png",
+        duration: 2,
+        rank: 0,
+        tags: "Luxury"
+    },
 ];
 
 
@@ -208,15 +588,15 @@ const FLIGHTS = [
         sourceCity: "Dallas",
         destinationAirport: "LAS",
         destinationCity: "Las Vegas",
-        Price: 400,
+        Price: 300,
         duration: 3,
-        startDateTime: new Date(2020, 1, 20),
-        endDateTime: new Date(2020, 1, 25),
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 2),
         stops: 0,
         freeChange: false,
         number: "DL2343",
         refundable: false,
-        logo: "https://knowtion-inc.com/wp-content/uploads/2017/03/Delta-Air-Lines-Logo.png",
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/DL.JPG",
         rank: 0,
         tags: ""
     },
@@ -224,17 +604,17 @@ const FLIGHTS = [
         airlineName: "American",
         sourceAirport: "DFW",
         sourceCity: "Dallas",
-        destinationAirport: "HNL",
-        destinationCity: "Honolulu",
-        Price: 800,
+        destinationAirport: "MIA",
+        destinationCity: "Miami",
+        Price: 250,
         duration: 2,
-        startDateTime: new Date(2020, 2, 12),
-        endDateTime: new Date(2020, 2, 15),
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 2),
         stops: 0,
         freeChange: false,
         number: "AA2342",
         refundable: false,
-        logo: "https://static.dezeen.com/uploads/2013/01/dezeen_American-Airlines-logo-and-livery_4a-300x300.jpg",
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
         rank: 0,
         tags: ""
     },
@@ -242,35 +622,287 @@ const FLIGHTS = [
         airlineName: "American",
         sourceAirport: "DFW",
         sourceCity: "Dallas",
-        destinationAirport: "MSY",
-        destinationCity: "New Orleans",
-        Price: 150,
-        duration: 1.5,
-        startDateTime: new Date(2020, 3, 1),
-        endDateTime: new Date(2020, 3, 5),
+        destinationAirport: "NYC",
+        destinationCity: "New York",
+        Price: 220,
+        duration: 3.5,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 2),
         stops: 0,
         freeChange: true,
         number: "AA5689",
         refundable: true,
-        logo: "https://static.dezeen.com/uploads/2013/01/dezeen_American-Airlines-logo-and-livery_4a-300x300.jpg",
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
         rank: 0,
         tags: ""
     },
     {
-        airlineName: "United",
+        airlineName: "Delta",
         sourceAirport: "DFW",
         sourceCity: "Dallas",
-        destinationAirport: "DEN",
-        destinationCity: "Colorado",
-        Price: 120,
-        duration: 2.5,
-        startDateTime: new Date(2020, 3, 1),
-        endDateTime: new Date(2020, 3, 5),
+        destinationAirport: "LAS",
+        destinationCity: "Las Vegas",
+        Price: 310,
+        duration: 3,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 3),
+        stops: 0,
+        freeChange: false,
+        number: "DL2343",
+        refundable: false,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/DL.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "DFW",
+        sourceCity: "Dallas",
+        destinationAirport: "MIA",
+        destinationCity: "Miami",
+        Price: 270,
+        duration: 2,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 3),
+        stops: 0,
+        freeChange: false,
+        number: "AA2342",
+        refundable: false,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "DFW",
+        sourceCity: "Dallas",
+        destinationAirport: "NYC",
+        destinationCity: "New York",
+        Price: 260,
+        duration: 3.5,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 3),
         stops: 0,
         freeChange: true,
-        number: "UA5600",
+        number: "AA5689",
+        refundable: true,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "Delta",
+        sourceAirport: "DFW",
+        sourceCity: "Dallas",
+        destinationAirport: "LAS",
+        destinationCity: "Las Vegas",
+        Price: 340,
+        duration: 3,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 4),
+        stops: 0,
+        freeChange: false,
+        number: "DL2343",
         refundable: false,
-        logo: "https://seeklogo.net/wp-content/uploads/2017/04/united-airlines-logo-01.png",
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/DL.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "DFW",
+        sourceCity: "Dallas",
+        destinationAirport: "MIA",
+        destinationCity: "Miami",
+        Price: 290,
+        duration: 2,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 4),
+        stops: 0,
+        freeChange: false,
+        number: "AA2342",
+        refundable: false,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "DFW",
+        sourceCity: "Dallas",
+        destinationAirport: "NYC",
+        destinationCity: "New York",
+        Price: 280,
+        duration: 3.5,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 4),
+        stops: 0,
+        freeChange: true,
+        number: "AA5689",
+        refundable: true,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "Delta",
+        sourceAirport: "SEA",
+        sourceCity: "Seattle",
+        destinationAirport: "LAS",
+        destinationCity: "Las Vegas",
+        Price: 300,
+        duration: 3,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 2),
+        stops: 0,
+        freeChange: false,
+        number: "DL2343",
+        refundable: false,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/DL.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "SEA",
+        sourceCity: "Seattle",
+        destinationAirport: "MIA",
+        destinationCity: "Miami",
+        Price: 250,
+        duration: 2,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 0),
+        stops: 0,
+        freeChange: false,
+        number: "AA2342",
+        refundable: false,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "SEA",
+        sourceCity: "Seattle",
+        destinationAirport: "NYC",
+        destinationCity: "New York",
+        Price: 220,
+        duration: 3.5,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 2),
+        stops: 0,
+        freeChange: true,
+        number: "AA5689",
+        refundable: true,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "Delta",
+        sourceAirport: "SEA",
+        sourceCity: "Seattle",
+        destinationAirport: "LAS",
+        destinationCity: "Las Vegas",
+        Price: 310,
+        duration: 3,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 3),
+        stops: 0,
+        freeChange: false,
+        number: "DL2343",
+        refundable: false,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/DL.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "SEA",
+        sourceCity: "Seattle",
+        destinationAirport: "MIA",
+        destinationCity: "Miami",
+        Price: 270,
+        duration: 2,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 3),
+        stops: 0,
+        freeChange: false,
+        number: "AA2342",
+        refundable: false,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "SEA",
+        sourceCity: "Seattle",
+        destinationAirport: "NYC",
+        destinationCity: "New York",
+        Price: 260,
+        duration: 3.5,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 3),
+        stops: 0,
+        freeChange: true,
+        number: "AA5689",
+        refundable: true,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "Delta",
+        sourceAirport: "SEA",
+        sourceCity: "Seattle",
+        destinationAirport: "LAS",
+        destinationCity: "Las Vegas",
+        Price: 340,
+        duration: 3,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 4),
+        stops: 0,
+        freeChange: false,
+        number: "DL2343",
+        refundable: false,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/DL.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "SEA",
+        sourceCity: "Seattle",
+        destinationAirport: "MIA",
+        destinationCity: "Miami",
+        Price: 290,
+        duration: 2,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 4),
+        stops: 0,
+        freeChange: false,
+        number: "AA2342",
+        refundable: false,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
+        rank: 0,
+        tags: ""
+    },
+    {
+        airlineName: "American",
+        sourceAirport: "SEA",
+        sourceCity: "Seattle",
+        destinationAirport: "NYC",
+        destinationCity: "New York",
+        Price: 280,
+        duration: 3.5,
+        startDateTime: new Date(2020, 4, 1),
+        endDateTime: new Date(2020, 4, 4),
+        stops: 0,
+        freeChange: true,
+        number: "AA5689",
+        refundable: true,
+        logo: "https://qa-images.orxenterprise.com/images/Airlines/30x30/AA.JPG",
         rank: 0,
         tags: ""
     }
@@ -310,7 +942,7 @@ const HOTELS = [
         starRating: 4,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1167350/8640cd6f_z.jpg?w=400",
         rank: 0,
-        tags: "Relexing"
+        tags: "Relaxing"
     },
     {
         name: "Residence Inn Las Vegas Airport",
@@ -321,7 +953,7 @@ const HOTELS = [
         starRating: 3,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1789007/00866cbb_z.jpg?w=400",
         rank: 0,
-        tags: "Relexing"
+        tags: "Relaxing"
     },
     {
         name: "Hampton Inn & Suites Las Vegas Airport",
@@ -332,7 +964,29 @@ const HOTELS = [
         starRating: 2,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/36668/bbbdd7da_z.jpg?w=400",
         rank: 0,
-        tags: "Relexing"
+        tags: "Luxury"
+    },
+    {
+        name: "Delano Las Vegas At Mandalay Bay",
+        address: "3940 Las Vegas Blvd South, Las Vegas, NV, US, 89119",
+        city: "Las Vegas",
+        freeCancellation: false,
+        price: 85,
+        starRating: 5,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/3020717/acf40d75_z.jpg?w=200",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "Bellagio",
+        address: "3600 Las Vegas Blvd S,  Las Vegas, NV, US, 89109",
+        city: "Las Vegas",
+        freeCancellation: false,
+        price: 111,
+        starRating: 5,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/57426/12e205510a2aafc5d354afd1376b26f4.jpg?w=200",
+        rank: 0,
+        tags: "Relaxing"
     },
     {
         name: "Alohilani Resort Waikiki Beach",
@@ -365,7 +1019,7 @@ const HOTELS = [
         starRating: 3,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/51848/85c48f5b_z.jpg?w=400",
         rank: 0,
-        tags: "Relexing"
+        tags: "Relaxing"
     },
     {
         name: "Pacific Marina Inn Airport Hotel",
@@ -376,7 +1030,7 @@ const HOTELS = [
         starRating: 2,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/90530/4d8f4f2b_z.jpg?w=400",
         rank: 0,
-        tags: "Relexing"
+        tags: "Relaxing"
     },
     {
         name: "Courtyard By Marriott Pueblo Downtown",
@@ -387,7 +1041,7 @@ const HOTELS = [
         starRating: 3,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/342389/0c645a3f_z.jpg?w=400",
         rank: 0,
-        tags: "Relexing"
+        tags: "Relaxing"
     },
     {
         name: "Clarion Inn",
@@ -398,7 +1052,7 @@ const HOTELS = [
         starRating: 3,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/309115/672534ba_z.jpg?w=400",
         rank: 0,
-        tags: "Relexing"
+        tags: "Relaxing"
     },
     {
         name: "Best Western Plus Eagleridge Inn & Suites",
@@ -409,7 +1063,7 @@ const HOTELS = [
         starRating: 2,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/9941/d0aa0f40_z.jpg?w=400",
         rank: 0,
-        tags: "Relexing"
+        tags: "Relaxing"
     },
     {
         name: "La Quinta Inn & Suites By Wyndham Pueblo",
@@ -420,7 +1074,7 @@ const HOTELS = [
         starRating: 2,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/295046/49fc07da_z.jpg?w=400",
         rank: 0,
-        tags: "Relexing"
+        tags: "Relaxing"
     },
     {
         name: "Windsor Court Hotel",
@@ -463,6 +1117,138 @@ const HOTELS = [
         price: 167,
         starRating: 2,
         heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/309277/9dfd3aca_z.jpg?w=400",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "JW Marriott Marquis Miami",
+        address: "255 Biscayne Boulevard Way,  Miami, FL, US, 33131",
+        city: "Miami",
+        freeCancellation: false,
+        price: 250,
+        starRating: 5,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/308144/5bed0825_z.jpg?w=200",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "Kimpton EPIC Hotel",
+        address: "270 Biscayne Blvd Way, Miami, FL, US, 33131",
+        city: "Miami",
+        freeCancellation: false,
+        price: 202,
+        starRating: 4,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/300794/2dd7051f_z.jpg?w=200",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "Four Seasons Hotel Miami",
+        address: "1435 Brickell Avenue, Miami, FL, US, 33131",
+        city: "Miami",
+        freeCancellation: false,
+        price: 52,
+        starRating: 4,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/27793/4095f638_z.jpg?w=200",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "Faena Hotel Miami Beach",
+        address: "3201 Collins ave, Miami Beach, FL, US, 33140",
+        city: "Miami",
+        freeCancellation: false,
+        price: 60,
+        starRating: 3,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1185338/240b0905_z.jpg?w=200",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "The Setai",
+        address: "2001 Collins Ave, Miami Beach, FL, US, 33139",
+        city: "Miami",
+        freeCancellation: true,
+        price: 332,
+        starRating: 5,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/55464/17abb4de_z.jpg?w=200",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "Carillon Miami Wellness Resort",
+        address: "6801 Collins Ave, Miami Beach, FL, US, 33141",
+        city: "Miami",
+        freeCancellation: true,
+        price: 190,
+        starRating: 4,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1170924/12df4f5f_z.jpg?w=200",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "The Towers At Lotte New York Palace",
+        address: "455 Madison Avenue, New York, NY, US, 10022",
+        city: "New York",
+        freeCancellation: true,
+        price: 500,
+        starRating: 5,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1188543/2207d47e_z.jpg?w=200",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "The Evelyn Hotel",
+        address: "7 E 27th St, New York, NY, US, 10016",
+        city: "New York",
+        freeCancellation: true,
+        price: 100,
+        starRating: 4,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/1165159/7f6b29a9_z.jpg?w=200",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "The Roxy Hotel Tribeca",
+        address: "2 Avenue Of The Americas, New York, NY, US, 10013",
+        city: "New York",
+        freeCancellation: false,
+        price: 150,
+        starRating: 5,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/27952/ad34d219_z.jpg?w=200",
+        rank: 0,
+        tags: "Luxury"
+    },
+    {
+        name: "Artezen Hotel",
+        address: "24 John Street, New York, NY, US, 10038",
+        freeCancellation: false,
+        city: "New York",
+        price: 140,
+        starRating: 5,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/3324336/7542051a_z.jpg?w=200",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "Archer Hotel New York",
+        address: "45 West 38th St, New York, NY, US, 10018",
+        city: "New York",
+        freeCancellation: false,
+        price: 167,
+        starRating: 4,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/393860/b7c0d5be_z.jpg?w=200",
+        rank: 0,
+        tags: "Relaxing"
+    },
+    {
+        name: "Sanctuary Hotel New York",
+        address: "132 West 47th Street, New York, NY, US, 10036",
+        city: "New York",
+        freeCancellation: true,
+        price: 141,
+        starRating: 5,
+        heroImage: "https://d3mj096p5q0e20.cloudfront.net/fi/EPS/313429/bad402db_z.jpg?w=200",
         rank: 0,
         tags: "Relaxing"
     }
@@ -617,7 +1403,7 @@ class RecommendationService {
         return packageCost;
     }
     getFlights(sourceLocation, totalBudget, vacationPref) {
-        let flights = _Mocks_mock_flights__WEBPACK_IMPORTED_MODULE_5__["FLIGHTS"].filter(x => x.sourceCity == sourceLocation);
+        let flights = _Mocks_mock_flights__WEBPACK_IMPORTED_MODULE_5__["FLIGHTS"].filter(x => x.sourceCity.toUpperCase() == sourceLocation.toUpperCase());
         console.log("Flights found - ");
         console.log(flights);
         if (flights.length < 1)
@@ -635,7 +1421,7 @@ class RecommendationService {
         return budgetFlights;
     }
     getHotel(destinationLocation, totalBudget, vacationPref) {
-        let hotels = _Mocks_mock_hotels__WEBPACK_IMPORTED_MODULE_6__["HOTELS"].filter(x => x.city == destinationLocation);
+        let hotels = _Mocks_mock_hotels__WEBPACK_IMPORTED_MODULE_6__["HOTELS"].filter(x => x.city.toUpperCase() == destinationLocation.toUpperCase());
         console.log("Hotels found - ");
         console.log(hotels);
         if (hotels.length < 1)
@@ -653,7 +1439,7 @@ class RecommendationService {
         return budgetHotels[0];
     }
     getCar(destinationLocation, totalBudget, vacationPref) {
-        let cars = _Mocks_mock_car__WEBPACK_IMPORTED_MODULE_7__["CARS"].filter(x => x.pickUpLocation == destinationLocation);
+        let cars = _Mocks_mock_car__WEBPACK_IMPORTED_MODULE_7__["CARS"].filter(x => x.pickUpLocation.toUpperCase() == destinationLocation.toUpperCase());
         console.log("cars found - ");
         console.log(cars);
         if (cars.length < 1)
@@ -671,7 +1457,7 @@ class RecommendationService {
         return budgetCars[0];
     }
     getActivity(destinationLocation, totalBudget, vacationPref) {
-        let activities = _Mocks_mock_activity__WEBPACK_IMPORTED_MODULE_8__["ACTIVITIES"].filter(x => x.city == destinationLocation);
+        let activities = _Mocks_mock_activity__WEBPACK_IMPORTED_MODULE_8__["ACTIVITIES"].filter(x => x.city.toUpperCase() == destinationLocation.toUpperCase());
         console.log("activities found - ");
         console.log(activities);
         if (activities.length < 1)
@@ -703,6 +1489,9 @@ class RecommendationService {
                 flightBudget = totalBudget * 20 / 100;
                 break;
             }
+            default: {
+                flightBudget = totalBudget * 20 / 100;
+            }
         }
         return flightBudget;
     }
@@ -720,6 +1509,9 @@ class RecommendationService {
             case "Adventurous": {
                 HotelBudget = totalBudget * 25 / 100;
                 break;
+            }
+            default: {
+                HotelBudget = totalBudget * 40 / 100;
             }
         }
         return HotelBudget;
@@ -739,6 +1531,9 @@ class RecommendationService {
                 CarBudget = totalBudget * 15 / 100;
                 break;
             }
+            default: {
+                CarBudget = totalBudget * 10 / 100;
+            }
         }
         return CarBudget;
     }
@@ -757,6 +1552,9 @@ class RecommendationService {
                 activityBudget = totalBudget * 40 / 100;
                 break;
             }
+            default: {
+                activityBudget = totalBudget * 10 / 100;
+            }
         }
         return activityBudget;
     }
@@ -769,6 +1567,10 @@ class RecommendationService {
             return "https://www.cobizmag.com/wp-content/uploads/data-import/06063aa7/breck2.jpg";
         if (city == "Honolulu")
             return "https://media.shermanstravel.com/honolulu.jpg";
+        if (city == "Miami")
+            return "https://www.miamiluxuryhomes.com/wp-content/uploads/2018/03/allison-island.jpg";
+        if (city == "New York")
+            return "https://blog-www.pods.com/wp-content/uploads/2019/04/MG_1_1_New_York_City-1.jpg";
     }
 }
 RecommendationService.ɵfac = function RecommendationService_Factory(t) { return new (t || RecommendationService)(); };
@@ -800,6 +1602,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _tours_list_tours_list_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tours-list/tours-list.component */ "./src/app/tours-list/tours-list.component.ts");
 /* harmony import */ var _tours_detail_tours_detail_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tours-detail/tours-detail.component */ "./src/app/tours-detail/tours-detail.component.ts");
 /* harmony import */ var _checkout_checkout_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./checkout/checkout.component */ "./src/app/checkout/checkout.component.ts");
+/* harmony import */ var _confirmation_confirmation_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./confirmation/confirmation.component */ "./src/app/confirmation/confirmation.component.ts");
+
 
 
 
@@ -815,6 +1619,7 @@ const routes = [
     { path: 'results', component: _tours_list_tours_list_component__WEBPACK_IMPORTED_MODULE_4__["ToursListComponent"] },
     { path: 'detail/:id', component: _tours_detail_tours_detail_component__WEBPACK_IMPORTED_MODULE_5__["ToursDetailComponent"] },
     { path: 'checkout', component: _checkout_checkout_component__WEBPACK_IMPORTED_MODULE_6__["CheckoutComponent"] },
+    { path: 'confirmation', component: _confirmation_confirmation_component__WEBPACK_IMPORTED_MODULE_7__["ConfirmationComponent"] },
     { path: '', redirectTo: '/search', pathMatch: 'full' }
 ];
 class AppRoutingModule {
@@ -1022,6 +1827,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _tours_list_material_module__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./tours-list/material-module */ "./src/app/tours-list/material-module.ts");
 /* harmony import */ var _tours_detail_tours_detail_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./tours-detail/tours-detail.component */ "./src/app/tours-detail/tours-detail.component.ts");
 /* harmony import */ var _checkout_checkout_component__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./checkout/checkout.component */ "./src/app/checkout/checkout.component.ts");
+/* harmony import */ var _confirmation_confirmation_component__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./confirmation/confirmation.component */ "./src/app/confirmation/confirmation.component.ts");
+
 
 
 
@@ -1050,7 +1857,8 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
         _tours_list_tours_list_component__WEBPACK_IMPORTED_MODULE_6__["ToursListComponent"],
         _home_search_component__WEBPACK_IMPORTED_MODULE_7__["SearchComponent"],
         _tours_detail_tours_detail_component__WEBPACK_IMPORTED_MODULE_10__["ToursDetailComponent"],
-        _checkout_checkout_component__WEBPACK_IMPORTED_MODULE_11__["CheckoutComponent"]], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
+        _checkout_checkout_component__WEBPACK_IMPORTED_MODULE_11__["CheckoutComponent"],
+        _confirmation_confirmation_component__WEBPACK_IMPORTED_MODULE_12__["ConfirmationComponent"]], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
         _app_routing_module__WEBPACK_IMPORTED_MODULE_4__["AppRoutingModule"],
         _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormsModule"],
         _angular_material_button__WEBPACK_IMPORTED_MODULE_3__["MatButtonModule"],
@@ -1064,7 +1872,8 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
                     _tours_list_tours_list_component__WEBPACK_IMPORTED_MODULE_6__["ToursListComponent"],
                     _home_search_component__WEBPACK_IMPORTED_MODULE_7__["SearchComponent"],
                     _tours_detail_tours_detail_component__WEBPACK_IMPORTED_MODULE_10__["ToursDetailComponent"],
-                    _checkout_checkout_component__WEBPACK_IMPORTED_MODULE_11__["CheckoutComponent"]
+                    _checkout_checkout_component__WEBPACK_IMPORTED_MODULE_11__["CheckoutComponent"],
+                    _confirmation_confirmation_component__WEBPACK_IMPORTED_MODULE_12__["ConfirmationComponent"]
                 ],
                 imports: [
                     _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
@@ -1093,10 +1902,12 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CheckoutComponent", function() { return CheckoutComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
-/* harmony import */ var _angular_material_form_field__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/material/form-field */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/form-field.js");
-/* harmony import */ var _angular_material_input__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/input */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/input.js");
-/* harmony import */ var _angular_material_button_toggle__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/material/button-toggle */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/button-toggle.js");
-/* harmony import */ var _angular_material_button__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/material/button */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/button.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
+/* harmony import */ var _angular_material_form_field__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/form-field */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/form-field.js");
+/* harmony import */ var _angular_material_input__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/material/input */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/input.js");
+/* harmony import */ var _angular_material_button_toggle__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/material/button-toggle */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/button-toggle.js");
+/* harmony import */ var _angular_material_button__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/material/button */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/button.js");
+
 
 
 
@@ -1104,12 +1915,17 @@ __webpack_require__.r(__webpack_exports__);
 
 
 class CheckoutComponent {
-    constructor() { }
+    constructor(router) {
+        this.router = router;
+    }
     ngOnInit() {
     }
+    gotToConf() {
+        this.router.navigateByUrl('/confirmation');
+    }
 }
-CheckoutComponent.ɵfac = function CheckoutComponent_Factory(t) { return new (t || CheckoutComponent)(); };
-CheckoutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: CheckoutComponent, selectors: [["app-checkout"]], decls: 23, vars: 0, consts: [[2, "height", "500px"], [1, "row", 2, "margin-left", "20px", "margin-right", "20px"], [1, "col-md-3"], [1, "example-form-field", 2, "width", "100%"], ["matInput", "", "type", "text"], ["matInput", "", "type", "email"], ["name", "fontStyle", "aria-label", "Font Style", 2, "width", "100%", "margin-bottom", "50px", "margin-top", "50px"], ["value", "bold"], ["value", "underline"], [2, "text-align", "center"], ["href", "https://commerce.coinbase.com/checkout/dd3a2a67-9caa-4e86-a2eb-bd234f3fc271", 1, "buy-with-crypto"], ["mat-raised-button", "", "color", "primary", "href", "https://commerce.coinbase.com/checkout/dd3a2a67-9caa-4e86-a2eb-bd234f3fc271"]], template: function CheckoutComponent_Template(rf, ctx) { if (rf & 1) {
+CheckoutComponent.ɵfac = function CheckoutComponent_Factory(t) { return new (t || CheckoutComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"])); };
+CheckoutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: CheckoutComponent, selectors: [["app-checkout"]], decls: 29, vars: 0, consts: [[2, "height", "500px", "margin", "10px"], [1, "row", 2, "margin-left", "20px", "margin-right", "20px"], [1, "col-md-3"], [1, "example-form-field", 2, "width", "100%"], ["matInput", "", "type", "text"], ["matInput", "", "type", "email"], ["name", "fontStyle", "aria-label", "Font Style", 2, "width", "100%", "margin-bottom", "50px", "margin-top", "50px"], ["value", "bold"], ["src", "https://www.paniniamerica.net/images/reward-points.4b133f855b7216965a0f17a9d3162463.png", 2, "width", "75px"], ["src", "https://cdn.amtrav.com/purchase/icn-p@2x.png"], ["href", "https://commerce.coinbase.com/checkout/dd3a2a67-9caa-4e86-a2eb-bd234f3fc271", 1, "buy-with-crypto"], ["value", "underline"], ["src", "https://cdn.amtrav.com/purchase/icn-bt@2x.png"], [2, "text-align", "center"], ["mat-raised-button", "", "color", "primary", 3, "click"]], template: function CheckoutComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1129,26 +1945,33 @@ CheckoutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefine
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "mat-button-toggle-group", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "mat-button-toggle", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "Pay with Points");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](14, "img", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, " Pay with Points");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "mat-button-toggle", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, "Pay with Point+CC");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "mat-button-toggle", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "img", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, "Monthly Payments");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "mat-button-toggle", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "Pay with CreditCard");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "a", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "button", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "Pay with Crypto");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "a", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "mat-button-toggle", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](23, "img", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Pay with Crypto");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, directives: [_angular_material_form_field__WEBPACK_IMPORTED_MODULE_1__["MatFormField"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_1__["MatLabel"], _angular_material_input__WEBPACK_IMPORTED_MODULE_2__["MatInput"], _angular_material_button_toggle__WEBPACK_IMPORTED_MODULE_3__["MatButtonToggleGroup"], _angular_material_button_toggle__WEBPACK_IMPORTED_MODULE_3__["MatButtonToggle"], _angular_material_button__WEBPACK_IMPORTED_MODULE_4__["MatButton"]], styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NoZWNrb3V0L2NoZWNrb3V0LmNvbXBvbmVudC5zY3NzIn0= */"] });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "button", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function CheckoutComponent_Template_button_click_27_listener() { return ctx.gotToConf(); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](28, "Complete Checkout");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    } }, directives: [_angular_material_form_field__WEBPACK_IMPORTED_MODULE_2__["MatFormField"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_2__["MatLabel"], _angular_material_input__WEBPACK_IMPORTED_MODULE_3__["MatInput"], _angular_material_button_toggle__WEBPACK_IMPORTED_MODULE_4__["MatButtonToggleGroup"], _angular_material_button_toggle__WEBPACK_IMPORTED_MODULE_4__["MatButtonToggle"], _angular_material_button__WEBPACK_IMPORTED_MODULE_5__["MatButton"]], styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NoZWNrb3V0L2NoZWNrb3V0LmNvbXBvbmVudC5zY3NzIn0= */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](CheckoutComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -1156,7 +1979,215 @@ CheckoutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefine
                 templateUrl: './checkout.component.html',
                 styleUrls: ['./checkout.component.scss']
             }]
-    }], function () { return []; }, null); })();
+    }], function () { return [{ type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"] }]; }, null); })();
+
+
+/***/ }),
+
+/***/ "./src/app/confirmation/confirmation.component.ts":
+/*!********************************************************!*\
+  !*** ./src/app/confirmation/confirmation.component.ts ***!
+  \********************************************************/
+/*! exports provided: ConfirmationComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ConfirmationComponent", function() { return ConfirmationComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
+/* harmony import */ var _angular_material_card__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/card */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/card.js");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
+
+
+
+
+
+class ConfirmationComponent {
+    constructor(router) {
+        this.router = router;
+    }
+    ngOnInit() {
+        this.getTripDetails();
+    }
+    getTripDetails() {
+        this.id = JSON.parse(localStorage.getItem('itinerary'));
+        this.destinations = JSON.parse(localStorage.getItem('currentPackageList'));
+        this.selectedDestination = this.destinations.find(x => x.packageId == this.id);
+        console.log(this.selectedDestination);
+        return this.selectedDestination;
+    }
+}
+ConfirmationComponent.ɵfac = function ConfirmationComponent_Factory(t) { return new (t || ConfirmationComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"])); };
+ConfirmationComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ConfirmationComponent, selectors: [["ng-component"]], decls: 89, vars: 21, consts: [[1, "col-lg-3", "col-md-4", "col-sm-6", "col-xs-12", "repeated-item"], [1, "home-card"], [1, "text-medium", 2, "font-weight", "bold"], [1, "home-card-content"], [2, "font-size", "large", "font-weight", "bold"], [2, "font-size", "medium", "float", "right"], [1, "text-medium"], [2, "font-weight", "bold"]], template: function ConfirmationComponent_Template(rf, ctx) { if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h2");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Trip Confirmed!");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "mat-card", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "span", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, "Trip ID: HF6574C");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "mat-card", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "mat-card-content", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "Thanks for choosing Xploresy, travel made easy! Your reservations have been confirmed, and all of your trip details are below. We hope you are rewarded by this travel.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](11, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "mat-card", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "mat-card-content", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "span", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "Flight");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "span", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "span", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "Flying from ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "span", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, "With Airline ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "span", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, "Departure: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](32, "date");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "span", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](35, "Arrival: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](37, "date");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](38, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "mat-card", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "mat-card-content", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "span", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "Hotel");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "span", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](45, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "span", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](49, "Property Name: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "span", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](53, "Address: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](54);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](55, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "mat-card", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "mat-card-content", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "span", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](59, "Car");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "span", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](61);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](62, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](63, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "span", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](66, "Car Details: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "span", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](70, "Car Type: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](71);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](72, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "mat-card", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "mat-card-content", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "span", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](76, "Activity");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "span", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](79, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "span", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](83, "Activity Name: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](84);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "span", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](87, "Description: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](88);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    } if (rf & 2) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("$", ctx.selectedDestination.flight.Price, "");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate2"]("", ctx.selectedDestination.flight.sourceCity, " to ", ctx.selectedDestination.flight.destinationAirport, "");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx.selectedDestination.flight.airlineName);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind2"](32, 15, ctx.selectedDestination.flight.startDateTime, "MM-dd-yyyy hh mm a"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind2"](37, 18, ctx.selectedDestination.flight.endDateTime, "MM-dd-yyyy hh mm a"), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("$", ctx.selectedDestination.hotel.price, "");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx.selectedDestination.hotel.name);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx.selectedDestination.hotel.address);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("$", ctx.selectedDestination.car.Price, "");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx.selectedDestination.car.description);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx.selectedDestination.car.carType);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("$", ctx.selectedDestination.activity.Price, "");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx.selectedDestination.activity.name);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx.selectedDestination.activity.description);
+    } }, directives: [_angular_material_card__WEBPACK_IMPORTED_MODULE_2__["MatCard"], _angular_material_card__WEBPACK_IMPORTED_MODULE_2__["MatCardContent"]], pipes: [_angular_common__WEBPACK_IMPORTED_MODULE_3__["DatePipe"]], encapsulation: 2 });
+/*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](ConfirmationComponent, [{
+        type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
+        args: [{
+                templateUrl: './confirmation.component.html'
+            }]
+    }], function () { return [{ type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"] }]; }, null); })();
 
 
 /***/ }),
@@ -1448,6 +2479,7 @@ class ToursDetailComponent {
     }
     getPackageDetails() {
         console.log(this.id);
+        localStorage.setItem('itinerary', JSON.stringify(this.id));
         this.destinations = JSON.parse(localStorage.getItem('currentPackageList'));
         this.selectedDestination = this.destinations.find(x => x.packageId == this.id);
         console.log(this.selectedDestination);
@@ -1455,7 +2487,7 @@ class ToursDetailComponent {
     }
 }
 ToursDetailComponent.ɵfac = function ToursDetailComponent_Factory(t) { return new (t || ToursDetailComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["ActivatedRoute"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"])); };
-ToursDetailComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ToursDetailComponent, selectors: [["tours-detail"]], decls: 70, vars: 31, consts: [[1, "col-lg-3", "col-md-4", "col-sm-6", "col-xs-12", "center-this-pls"], [1, "col-min", "text-header"], ["name", "fieldName", "ngDefaultControl", "", 1, "col-lg-3", "col-md-4", "col-sm-6", "col-xs-12", "repeated-item", "detail-list", 3, "ngModel", "ngModelChange"], [1, "home-card"], [1, "home-card-content"], ["mat-card-image", "", 3, "src", "alt"], [1, "text-medium"], [1, "trip-cost"], [1, "checkout-button"], ["mat-raised-button", "", "color", "primary", 3, "click"]], template: function ToursDetailComponent_Template(rf, ctx) { if (rf & 1) {
+ToursDetailComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ToursDetailComponent, selectors: [["tours-detail"]], decls: 70, vars: 31, consts: [[1, "col-lg-3", "col-md-4", "col-sm-6", "col-xs-12", "center-this-pls"], [1, "col-min", "text-header"], ["name", "fieldName", "ngDefaultControl", "", 1, "col-lg-3", "col-md-4", "col-sm-6", "col-xs-12", "repeated-item", "detail-list", 3, "ngModel", "ngModelChange"], [1, "home-card"], [1, "home-card-content"], ["mat-card-image", "", 2, "height", "100px", 3, "src", "alt"], [1, "text-medium"], [1, "trip-cost"], ["mat-card-image", "", 3, "src", "alt"], [1, "checkout-button"], ["mat-raised-button", "", "color", "primary", 3, "click"]], template: function ToursDetailComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "h4");
@@ -1498,7 +2530,7 @@ ToursDetailComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "mat-card", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "mat-card-content", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](28, "img", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](28, "img", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31);
@@ -1517,7 +2549,7 @@ ToursDetailComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "mat-card", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "mat-card-content", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "img", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "img", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44);
@@ -1536,7 +2568,7 @@ ToursDetailComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "mat-card", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "mat-card-content", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "img", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "img", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](57);
@@ -1555,8 +2587,8 @@ ToursDetailComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "button", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "div", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "button", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ToursDetailComponent_Template_button_click_67_listener() { return ctx.checkout(); });
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](68, "Checkout");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1857,7 +2889,7 @@ DemoMaterialModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefin
                     _angular_material_tree__WEBPACK_IMPORTED_MODULE_42__["MatTreeModule"],
                     _angular_cdk_overlay__WEBPACK_IMPORTED_MODULE_43__["OverlayModule"],
                     _angular_cdk_portal__WEBPACK_IMPORTED_MODULE_4__["PortalModule"],
-                    _angular_cdk_scrolling__WEBPACK_IMPORTED_MODULE_5__["ScrollingModule"],
+                    _angular_cdk_scrolling__WEBPACK_IMPORTED_MODULE_5__["ScrollingModule"]
                 ]
             }]
     }], null, null); })();
@@ -1880,6 +2912,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 /* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 /* harmony import */ var _angular_material_card__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/material/card */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/card.js");
+/* harmony import */ var _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/material/icon */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/icon.js");
+
 
 
 
@@ -1897,11 +2931,25 @@ function ToursListComponent_div_17_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](7, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](8, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](9, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "div", 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "mat-icon");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, " flight");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "mat-icon");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, " hotel");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "mat-icon");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, " directions_car");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "mat-icon");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, " local_activity");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1914,7 +2962,7 @@ function ToursListComponent_div_17_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r1.name);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](item_r1.name);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](14);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("$", item_r1.cost, "");
 } }
 class ToursListComponent {
@@ -1957,7 +3005,7 @@ class ToursListComponent {
     }
 }
 ToursListComponent.ɵfac = function ToursListComponent_Factory(t) { return new (t || ToursListComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"])); };
-ToursListComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ToursListComponent, selectors: [["tours-list"]], decls: 19, vars: 5, consts: [[1, "col-lg-3", "col-md-4", "col-sm-6", "col-xs-12", "center-this-pls"], [1, "col-min", "text-header"], ["contenteditable", "true"], ["class", "col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item", 4, "ngFor", "ngForOf"], [1, "col-lg-3", "col-md-4", "col-sm-6", "col-xs-12", "repeated-item"], [1, "home-card", 3, "click"], [1, "home-card-content"], ["mat-card-image", "", 3, "src", "alt"], [1, "trip-cost"]], template: function ToursListComponent_Template(rf, ctx) { if (rf & 1) {
+ToursListComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ToursListComponent, selectors: [["tours-list"]], decls: 19, vars: 5, consts: [[1, "col-lg-3", "col-md-4", "col-sm-6", "col-xs-12", "center-this-pls"], [1, "col-min", "text-header"], ["contenteditable", "true", 1, "text-underline"], ["class", "col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item", 4, "ngFor", "ngForOf"], [1, "col-lg-3", "col-md-4", "col-sm-6", "col-xs-12", "repeated-item"], [1, "home-card", 3, "click"], [1, "home-card-content"], ["mat-card-image", "", 3, "src", "alt"], [1, "trip-cost"]], template: function ToursListComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "h4");
@@ -1984,7 +3032,7 @@ ToursListComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](17, ToursListComponent_div_17_Template, 12, 4, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](17, ToursListComponent_div_17_Template, 21, 4, "div", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "router-outlet");
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](7);
@@ -1997,7 +3045,7 @@ ToursListComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" $", ctx.cost, " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.destinations);
-    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_3__["NgForOf"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterOutlet"], _angular_material_card__WEBPACK_IMPORTED_MODULE_4__["MatCard"], _angular_material_card__WEBPACK_IMPORTED_MODULE_4__["MatCardContent"], _angular_material_card__WEBPACK_IMPORTED_MODULE_4__["MatCardImage"]], styles: ["html[_ngcontent-%COMP%] {\n  min-height: 100%;\n}\n\nbody[_ngcontent-%COMP%] {\n  height: 100%;\n  margin: 0px;\n  font-family: Roboto, \"Helvetica Neue\", sans-serif;\n}\n\n.home-card[_ngcontent-%COMP%] {\n  border-radius: 4px;\n  max-width: 600px;\n  max-height: 1000px;\n  margin-top: 10px;\n  padding: 0;\n  cursor: pointer;\n  margin-top: 15px;\n}\n\n.home-card[_ngcontent-%COMP%]   .mat-card-image[_ngcontent-%COMP%] {\n  margin: 0;\n  height: 100%;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: space-between;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%]   .trip-cost[_ngcontent-%COMP%] {\n  text-align: right;\n  font-weight: bold;\n  display: block;\n  width: 100%;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%]    > *[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  flex: auto;\n  max-width: 50%;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%]    > *[_ngcontent-%COMP%]:first-child {\n  border-top-left-radius: 4px;\n  border-bottom-left-radius: 4px;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%]    > *[_ngcontent-%COMP%]:last-child {\n  flex-direction: column;\n  align-items: start;\n  padding: 8px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdG91cnMtbGlzdC9DOlxcV293QXBwXFxQb3J0YWwvc3JjXFxhcHBcXHRvdXJzLWxpc3RcXHRvdXJzLWxpc3QuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL3RvdXJzLWxpc3QvdG91cnMtbGlzdC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGdCQUFBO0FDQ0Y7O0FER0E7RUFDRSxZQUFBO0VBQ0EsV0FBQTtFQUNBLGlEQUFBO0FDQUY7O0FESUE7RUFDRSxrQkFBQTtFQUNBLGdCQUFBO0VBQ0Esa0JBQUE7RUFDQSxnQkFBQTtFQUNBLFVBQUE7RUFDQSxlQUFBO0VBQ0EsZ0JBQUE7QUNERjs7QURHRTtFQUNFLFNBQUE7RUFDQSxZQUFBO0FDREo7O0FESUU7RUFDRSxhQUFBO0VBQ0EsOEJBQUE7QUNGSjs7QURJSTtFQUNFLGlCQUFBO0VBQ0EsaUJBQUE7RUFDQSxjQUFBO0VBQ0EsV0FBQTtBQ0ZOOztBREtJO0VBQ0UsYUFBQTtFQUNBLHVCQUFBO0VBQ0EsbUJBQUE7RUFDQSxVQUFBO0VBQ0EsY0FBQTtBQ0hOOztBREtNO0VBQ0UsMkJBQUE7RUFDQSw4QkFBQTtBQ0hSOztBRE1NO0VBQ0Usc0JBQUE7RUFDQSxrQkFBQTtFQUNBLFlBQUE7QUNKUiIsImZpbGUiOiJzcmMvYXBwL3RvdXJzLWxpc3QvdG91cnMtbGlzdC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbImh0bWwge1xyXG4gIG1pbi1oZWlnaHQ6IDEwMCU7XHJcbn1cclxuXHJcblxyXG5ib2R5IHtcclxuICBoZWlnaHQ6IDEwMCU7XHJcbiAgbWFyZ2luOiAwcHg7XHJcbiAgZm9udC1mYW1pbHk6IFJvYm90bywgXCJIZWx2ZXRpY2EgTmV1ZVwiLCBzYW5zLXNlcmlmO1xyXG59XHJcblxyXG5cclxuLmhvbWUtY2FyZCB7XHJcbiAgYm9yZGVyLXJhZGl1czogNHB4O1xyXG4gIG1heC13aWR0aDogNjAwcHg7XHJcbiAgbWF4LWhlaWdodDogMTAwMHB4O1xyXG4gIG1hcmdpbi10b3A6IDEwcHg7XHJcbiAgcGFkZGluZzogMDtcclxuICBjdXJzb3I6IHBvaW50ZXI7XHJcbiAgbWFyZ2luLXRvcDoxNXB4O1xyXG5cclxuICAubWF0LWNhcmQtaW1hZ2Uge1xyXG4gICAgbWFyZ2luOiAwO1xyXG4gICAgaGVpZ2h0OiAxMDAlO1xyXG4gIH1cclxuXHJcbiAgLmhvbWUtY2FyZC1jb250ZW50IHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47XHJcblxyXG4gICAgLnRyaXAtY29zdCB7XHJcbiAgICAgIHRleHQtYWxpZ246IHJpZ2h0O1xyXG4gICAgICBmb250LXdlaWdodDogYm9sZDtcclxuICAgICAgZGlzcGxheTogYmxvY2s7XHJcbiAgICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgfVxyXG5cclxuICAgICYgPiAqIHtcclxuICAgICAgZGlzcGxheTogZmxleDtcclxuICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgICAgIGZsZXg6IGF1dG87XHJcbiAgICAgIG1heC13aWR0aDogNTAlO1xyXG5cclxuICAgICAgJjpmaXJzdC1jaGlsZCB7XHJcbiAgICAgICAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogNHB4O1xyXG4gICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDRweDtcclxuICAgICAgfVxyXG5cclxuICAgICAgJjpsYXN0LWNoaWxkIHtcclxuICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xyXG4gICAgICAgIGFsaWduLWl0ZW1zOiBzdGFydDtcclxuICAgICAgICBwYWRkaW5nOiA4cHg7XHJcbiAgICAgIH1cclxuICAgIH1cclxuICB9XHJcbn1cclxuIiwiaHRtbCB7XG4gIG1pbi1oZWlnaHQ6IDEwMCU7XG59XG5cbmJvZHkge1xuICBoZWlnaHQ6IDEwMCU7XG4gIG1hcmdpbjogMHB4O1xuICBmb250LWZhbWlseTogUm9ib3RvLCBcIkhlbHZldGljYSBOZXVlXCIsIHNhbnMtc2VyaWY7XG59XG5cbi5ob21lLWNhcmQge1xuICBib3JkZXItcmFkaXVzOiA0cHg7XG4gIG1heC13aWR0aDogNjAwcHg7XG4gIG1heC1oZWlnaHQ6IDEwMDBweDtcbiAgbWFyZ2luLXRvcDogMTBweDtcbiAgcGFkZGluZzogMDtcbiAgY3Vyc29yOiBwb2ludGVyO1xuICBtYXJnaW4tdG9wOiAxNXB4O1xufVxuLmhvbWUtY2FyZCAubWF0LWNhcmQtaW1hZ2Uge1xuICBtYXJnaW46IDA7XG4gIGhlaWdodDogMTAwJTtcbn1cbi5ob21lLWNhcmQgLmhvbWUtY2FyZC1jb250ZW50IHtcbiAgZGlzcGxheTogZmxleDtcbiAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xufVxuLmhvbWUtY2FyZCAuaG9tZS1jYXJkLWNvbnRlbnQgLnRyaXAtY29zdCB7XG4gIHRleHQtYWxpZ246IHJpZ2h0O1xuICBmb250LXdlaWdodDogYm9sZDtcbiAgZGlzcGxheTogYmxvY2s7XG4gIHdpZHRoOiAxMDAlO1xufVxuLmhvbWUtY2FyZCAuaG9tZS1jYXJkLWNvbnRlbnQgPiAqIHtcbiAgZGlzcGxheTogZmxleDtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGZsZXg6IGF1dG87XG4gIG1heC13aWR0aDogNTAlO1xufVxuLmhvbWUtY2FyZCAuaG9tZS1jYXJkLWNvbnRlbnQgPiAqOmZpcnN0LWNoaWxkIHtcbiAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogNHB4O1xuICBib3JkZXItYm90dG9tLWxlZnQtcmFkaXVzOiA0cHg7XG59XG4uaG9tZS1jYXJkIC5ob21lLWNhcmQtY29udGVudCA+ICo6bGFzdC1jaGlsZCB7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIGFsaWduLWl0ZW1zOiBzdGFydDtcbiAgcGFkZGluZzogOHB4O1xufSJdfQ== */"] });
+    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_3__["NgForOf"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterOutlet"], _angular_material_card__WEBPACK_IMPORTED_MODULE_4__["MatCard"], _angular_material_card__WEBPACK_IMPORTED_MODULE_4__["MatCardContent"], _angular_material_card__WEBPACK_IMPORTED_MODULE_4__["MatCardImage"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MatIcon"]], styles: ["html[_ngcontent-%COMP%] {\n  min-height: 100%;\n}\n\nbody[_ngcontent-%COMP%] {\n  height: 100%;\n  margin: 0px;\n  font-family: Roboto, \"Helvetica Neue\", sans-serif;\n}\n\n.text-underline[_ngcontent-%COMP%] {\n  text-decoration: underline;\n}\n\n.home-card[_ngcontent-%COMP%] {\n  border-radius: 4px;\n  max-width: 600px;\n  max-height: 1000px;\n  margin-top: 10px;\n  padding: 0;\n  cursor: pointer;\n  margin-top: 15px;\n}\n\n.home-card[_ngcontent-%COMP%]   .mat-card-image[_ngcontent-%COMP%] {\n  margin: 0;\n  height: 100%;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: space-between;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%]   .trip-cost[_ngcontent-%COMP%] {\n  text-align: right;\n  font-weight: bold;\n  display: block;\n  width: 100%;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%]    > *[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  flex: auto;\n  max-width: 50%;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%]    > *[_ngcontent-%COMP%]:first-child {\n  border-top-left-radius: 4px;\n  border-bottom-left-radius: 4px;\n}\n\n.home-card[_ngcontent-%COMP%]   .home-card-content[_ngcontent-%COMP%]    > *[_ngcontent-%COMP%]:last-child {\n  flex-direction: column;\n  align-items: start;\n  padding: 8px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdG91cnMtbGlzdC9DOlxcV293QXBwXFxQb3J0YWwvc3JjXFxhcHBcXHRvdXJzLWxpc3RcXHRvdXJzLWxpc3QuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL3RvdXJzLWxpc3QvdG91cnMtbGlzdC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGdCQUFBO0FDQ0Y7O0FER0E7RUFDRSxZQUFBO0VBQ0EsV0FBQTtFQUNBLGlEQUFBO0FDQUY7O0FER0E7RUFDRSwwQkFBQTtBQ0FGOztBREdBO0VBQ0Usa0JBQUE7RUFDQSxnQkFBQTtFQUNBLGtCQUFBO0VBQ0EsZ0JBQUE7RUFDQSxVQUFBO0VBQ0EsZUFBQTtFQUNBLGdCQUFBO0FDQUY7O0FERUU7RUFDRSxTQUFBO0VBQ0EsWUFBQTtBQ0FKOztBREdFO0VBQ0UsYUFBQTtFQUNBLDhCQUFBO0FDREo7O0FER0k7RUFDRSxpQkFBQTtFQUNBLGlCQUFBO0VBQ0EsY0FBQTtFQUNBLFdBQUE7QUNETjs7QURJSTtFQUNFLGFBQUE7RUFDQSx1QkFBQTtFQUNBLG1CQUFBO0VBQ0EsVUFBQTtFQUNBLGNBQUE7QUNGTjs7QURJTTtFQUNFLDJCQUFBO0VBQ0EsOEJBQUE7QUNGUjs7QURLTTtFQUNFLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxZQUFBO0FDSFIiLCJmaWxlIjoic3JjL2FwcC90b3Vycy1saXN0L3RvdXJzLWxpc3QuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJodG1sIHtcclxuICBtaW4taGVpZ2h0OiAxMDAlO1xyXG59XHJcblxyXG5cclxuYm9keSB7XHJcbiAgaGVpZ2h0OiAxMDAlO1xyXG4gIG1hcmdpbjogMHB4O1xyXG4gIGZvbnQtZmFtaWx5OiBSb2JvdG8sIFwiSGVsdmV0aWNhIE5ldWVcIiwgc2Fucy1zZXJpZjtcclxufVxyXG5cclxuLnRleHQtdW5kZXJsaW5lIHtcclxuICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTtcclxufVxyXG5cclxuLmhvbWUtY2FyZCB7XHJcbiAgYm9yZGVyLXJhZGl1czogNHB4O1xyXG4gIG1heC13aWR0aDogNjAwcHg7XHJcbiAgbWF4LWhlaWdodDogMTAwMHB4O1xyXG4gIG1hcmdpbi10b3A6IDEwcHg7XHJcbiAgcGFkZGluZzogMDtcclxuICBjdXJzb3I6IHBvaW50ZXI7XHJcbiAgbWFyZ2luLXRvcDoxNXB4O1xyXG5cclxuICAubWF0LWNhcmQtaW1hZ2Uge1xyXG4gICAgbWFyZ2luOiAwO1xyXG4gICAgaGVpZ2h0OiAxMDAlO1xyXG4gIH1cclxuXHJcbiAgLmhvbWUtY2FyZC1jb250ZW50IHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47XHJcblxyXG4gICAgLnRyaXAtY29zdCB7XHJcbiAgICAgIHRleHQtYWxpZ246IHJpZ2h0O1xyXG4gICAgICBmb250LXdlaWdodDogYm9sZDtcclxuICAgICAgZGlzcGxheTogYmxvY2s7XHJcbiAgICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgfVxyXG5cclxuICAgICYgPiAqIHtcclxuICAgICAgZGlzcGxheTogZmxleDtcclxuICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgICAgIGZsZXg6IGF1dG87XHJcbiAgICAgIG1heC13aWR0aDogNTAlO1xyXG5cclxuICAgICAgJjpmaXJzdC1jaGlsZCB7XHJcbiAgICAgICAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogNHB4O1xyXG4gICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDRweDtcclxuICAgICAgfVxyXG5cclxuICAgICAgJjpsYXN0LWNoaWxkIHtcclxuICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xyXG4gICAgICAgIGFsaWduLWl0ZW1zOiBzdGFydDtcclxuICAgICAgICBwYWRkaW5nOiA4cHg7XHJcbiAgICAgIH1cclxuICAgIH1cclxuICB9XHJcbn1cclxuIiwiaHRtbCB7XG4gIG1pbi1oZWlnaHQ6IDEwMCU7XG59XG5cbmJvZHkge1xuICBoZWlnaHQ6IDEwMCU7XG4gIG1hcmdpbjogMHB4O1xuICBmb250LWZhbWlseTogUm9ib3RvLCBcIkhlbHZldGljYSBOZXVlXCIsIHNhbnMtc2VyaWY7XG59XG5cbi50ZXh0LXVuZGVybGluZSB7XG4gIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lO1xufVxuXG4uaG9tZS1jYXJkIHtcbiAgYm9yZGVyLXJhZGl1czogNHB4O1xuICBtYXgtd2lkdGg6IDYwMHB4O1xuICBtYXgtaGVpZ2h0OiAxMDAwcHg7XG4gIG1hcmdpbi10b3A6IDEwcHg7XG4gIHBhZGRpbmc6IDA7XG4gIGN1cnNvcjogcG9pbnRlcjtcbiAgbWFyZ2luLXRvcDogMTVweDtcbn1cbi5ob21lLWNhcmQgLm1hdC1jYXJkLWltYWdlIHtcbiAgbWFyZ2luOiAwO1xuICBoZWlnaHQ6IDEwMCU7XG59XG4uaG9tZS1jYXJkIC5ob21lLWNhcmQtY29udGVudCB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2Vlbjtcbn1cbi5ob21lLWNhcmQgLmhvbWUtY2FyZC1jb250ZW50IC50cmlwLWNvc3Qge1xuICB0ZXh0LWFsaWduOiByaWdodDtcbiAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gIGRpc3BsYXk6IGJsb2NrO1xuICB3aWR0aDogMTAwJTtcbn1cbi5ob21lLWNhcmQgLmhvbWUtY2FyZC1jb250ZW50ID4gKiB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBmbGV4OiBhdXRvO1xuICBtYXgtd2lkdGg6IDUwJTtcbn1cbi5ob21lLWNhcmQgLmhvbWUtY2FyZC1jb250ZW50ID4gKjpmaXJzdC1jaGlsZCB7XG4gIGJvcmRlci10b3AtbGVmdC1yYWRpdXM6IDRweDtcbiAgYm9yZGVyLWJvdHRvbS1sZWZ0LXJhZGl1czogNHB4O1xufVxuLmhvbWUtY2FyZCAuaG9tZS1jYXJkLWNvbnRlbnQgPiAqOmxhc3QtY2hpbGQge1xuICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICBhbGlnbi1pdGVtczogc3RhcnQ7XG4gIHBhZGRpbmc6IDhweDtcbn0iXX0= */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](ToursListComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
