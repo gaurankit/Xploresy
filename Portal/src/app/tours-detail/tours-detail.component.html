@@ -1,0 +1,27 @@
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 center-this-pls">
+    <div class="col-min text-header">
+        <h4>
+            <span style="color:#ed7437">
+                <strong>My Trip to San Francisco </strong>
+            </span>
+        </h4>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" *ngFor = "let item of getToursList(); trackBy: getToursList">
+  <mat-card class="home-card">
+    <mat-card-content class="home-card-content">
+      <img mat-card-image
+        src="{{ item.image }}"
+        alt="{{ item.name }}">
+      <div>
+        <div>{{ item.name }}</div>
+        <br />
+        <br />
+        <br />
+        <div class="trip-cost">${{ item.cost }}</div>
+      </div>
+    </mat-card-content>
+</mat-card>
+</div>
+<router-outlet></router-outlet>
