@@ -25,15 +25,25 @@ input:focus + label{
 
 label.prefCls{
     display: inline-block;
-    font-weight: 400;
     min-height: auto;
+    max-width: 110px;
+    min-width: 75px;
     padding:5px;
-    width: 110px;
+    width: fit-content;
     text-align: center;
     height: 36px;
     border: 1px solid #b9b9b9;
-    text-transform: none;
     cursor: pointer;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-pref {
+    padding: 0 10px 0 10px;
 }
 
 .card-body input[type=radio] {
@@ -45,6 +55,10 @@ div.height1{
     height: 1rem;
 }
 
+.mat-raised-button.mat-primary{
+    background-color:#3a73bd !important;
+    color: black;;
+}
 
 
 
