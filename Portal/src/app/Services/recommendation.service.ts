@@ -266,6 +266,12 @@ getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
     if(city=="Honolulu")
     return "https://media.shermanstravel.com/honolulu.jpg";
 
+    if(city=="Miami")
+    return "https://www.miamiluxuryhomes.com/wp-content/uploads/2018/03/allison-island.jpg";
+
+    if(city=="New York")
+    return "https://blog-www.pods.com/wp-content/uploads/2019/04/MG_1_1_New_York_City-1.jpg";
+
   }
 
 
