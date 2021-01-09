@@ -12,7 +12,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
 import {DemoMaterialModule} from './tours-list/material-module';
 import { ToursDetailComponent } from './tours-detail/tours-detail.component';
 import { CheckoutComponent } from './checkout/checkout.component';
-
+import { ConfirmationComponent } from './confirmation/confirmation.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +20,8 @@ import { CheckoutComponent } from './checkout/checkout.component';
     ToursListComponent,
     SearchComponent,
     ToursDetailComponent,
-    CheckoutComponent
+    CheckoutComponent,
+    ConfirmationComponent
   ],
   imports: [
     BrowserModule,
@@ -34,3 +35,4 @@ import { CheckoutComponent } from './checkout/checkout.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
