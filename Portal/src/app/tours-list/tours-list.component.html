@@ -3,8 +3,8 @@
     <div class="col-min text-header">
         <h4>
             <span>
-                  <strong>Showing Destinations for  <span contenteditable="true">{{passengerCount}}</span>  
-                    People from <span contenteditable="true"> {{fromDate}} </span>  to <span contenteditable="true">{{toDate}} </span>costing<span contenteditable="true"> ${{cost}} </span>
+                  <strong>Showing Destinations for  <span contenteditable="true" class="text-underline">{{passengerCount}}</span>  
+                    People from <span contenteditable="true" class="text-underline"> {{fromDate}} </span>  to <span contenteditable="true" class="text-underline">{{toDate}} </span>costing<span contenteditable="true" class="text-underline"> ${{cost}} </span>
                   </strong>
             </span>
         </h4>
@@ -19,6 +19,12 @@
         alt="{{ item.name }}">
       <div>
         <div>{{ item.name }}</div>
+        <div>
+          <mat-icon> flight</mat-icon>
+          <mat-icon> hotel</mat-icon>
+          <mat-icon> directions_car</mat-icon>
+          <mat-icon> local_activity</mat-icon>
+        </div>
         <br />
         <br />
         <br />

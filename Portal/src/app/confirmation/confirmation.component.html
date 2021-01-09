@@ -1,0 +1,61 @@
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item">
+    <h2>Trip Confirmed!</h2>
+    <mat-card class="home-card">
+        <!-- <span style="font-size: medium;">Trip Details</span> -->
+        <span class="text-medium" style="font-weight: bold;">Trip ID: HF6574C</span>
+    </mat-card>
+    <br/>
+
+    <mat-card class="home-card" >
+        <mat-card-content class="home-card-content">
+            <span>Thanks for choosing Xploresy, travel made easy! Your reservations have been confirmed, and all of your trip details are below. 
+                We hope you are rewarded by this travel.</span>
+        </mat-card-content>
+    </mat-card>
+<br/>
+    <mat-card class="home-card" >
+        <mat-card-content class="home-card-content">
+            <span style="font-size: large; font-weight: bold;">Flight</span>
+            <span style="font-size: medium;float:right;">${{ selectedDestination.flight.Price }}</span>
+            <br/><br/>
+            <div class="text-medium"><span style="font-weight: bold;">Flying from </span>{{ selectedDestination.flight.sourceCity }} to {{ selectedDestination.flight.destinationAirport }}</div>
+            <div><span class="text-medium" style="font-weight: bold;">With Airline </span>{{ selectedDestination.flight.airlineName }}</div>
+            <div class="text-medium"><span style="font-weight: bold;">Departure: </span>{{ selectedDestination.flight.startDateTime  | date: 'MM-dd-yyyy hh mm a'}}</div>
+            <div class="text-medium"><span style="font-weight: bold;">Arrival: </span>{{ selectedDestination.flight.endDateTime  | date: 'MM-dd-yyyy hh mm a'}} </div>
+        </mat-card-content>
+    </mat-card>
+<br/>
+    <mat-card class="home-card">
+        <mat-card-content class="home-card-content">
+            <span style="font-size: large; font-weight: bold;">Hotel</span>
+            <span style="font-size: medium;float:right;">${{ selectedDestination.hotel.price }}</span>
+            <br/><br/>
+            <div><span style="font-weight: bold;">Property Name: </span>{{ selectedDestination.hotel.name }}</div>
+            <div class="text-medium"><span style="font-weight: bold;">Address: </span>{{ selectedDestination.hotel.address }}</div>
+            
+
+        </mat-card-content>
+    </mat-card>
+<br/>
+
+<mat-card class="home-card">
+    <mat-card-content class="home-card-content">
+        <span style="font-size: large; font-weight: bold;">Car</span>
+        <span style="font-size: medium;float:right;">${{ selectedDestination.car.Price }}</span>
+        <br/><br/>
+        <div><span style="font-weight: bold;">Car Details: </span>{{ selectedDestination.car.description }}</div>
+        <div class="text-medium"><span style="font-weight: bold;">Car Type: </span>{{ selectedDestination.car.carType }}</div>
+    </mat-card-content>
+</mat-card>
+<br/>
+<mat-card class="home-card">
+    <mat-card-content class="home-card-content">
+        <span style="font-size: large; font-weight: bold;">Activity</span>
+        <span style="font-size: medium;float:right;">${{ selectedDestination.activity.Price }}</span>
+        <br/><br/>
+        <div><span style="font-weight: bold;">Activity Name: </span>{{ selectedDestination.activity.name }}</div>
+        <div class="text-medium"><span style="font-weight: bold;">Description: </span>{{ selectedDestination.activity.description }}</div>
+    </mat-card-content>
+</mat-card>
+
+</div>

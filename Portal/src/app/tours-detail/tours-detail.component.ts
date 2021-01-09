@@ -30,6 +30,7 @@ export class ToursDetailComponent implements OnInit {
   getPackageDetails() {
 
   console.log(this.id);
+  localStorage.setItem('itinerary', JSON.stringify(this.id));
   this.destinations = JSON.parse(localStorage.getItem('currentPackageList'));
   this.selectedDestination = this.destinations.find(x => x.packageId == this.id);
   console.log(this.selectedDestination);
