@@ -35,7 +35,7 @@ import { Flight } from '../Model/Flight';
       freeChange:false,
       number:"AA2342",
       refundable:false,
-      logo:"https://s21.q4cdn.com/616071541/files/multimedia-gallery/assets/Logos/american-airlines/aa_aa__hrz_rgb_grd_pos.png",
+      logo:"https://static.dezeen.com/uploads/2013/01/dezeen_American-Airlines-logo-and-livery_4a-300x300.jpg",
       rank:0,
       tags:""
     },
@@ -53,7 +53,7 @@ import { Flight } from '../Model/Flight';
       freeChange:true,
       number:"AA5689",
       refundable:true,
-      logo:"https://s21.q4cdn.com/616071541/files/multimedia-gallery/assets/Logos/american-airlines/aa_aa__hrz_rgb_grd_pos.png",
+      logo:"https://static.dezeen.com/uploads/2013/01/dezeen_American-Airlines-logo-and-livery_4a-300x300.jpg",
       rank:0,
       tags:""
     },

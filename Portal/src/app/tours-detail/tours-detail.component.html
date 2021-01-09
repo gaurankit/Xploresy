@@ -16,6 +16,8 @@
             alt="{{ selectedDestination.flight.name }}">
           <div>
             <div>{{ selectedDestination.flight.airlineName }}</div>
+            <div class="text-medium">{{ selectedDestination.flight.sourceCity }} to {{ selectedDestination.flight.destinationAirport }}</div>
+            <div class="text-medium">{{ selectedDestination.flight.startDateTime  | date: 'MM-dd-yyyy hh mm'}} to {{ selectedDestination.flight.endDateTime }}</div>
             <br />
             <br />
             <br />
@@ -30,6 +32,7 @@
             alt="{{ selectedDestination.hotel.name }}">
           <div>
             <div>{{ selectedDestination.hotel.name }}</div>
+            <div class="text-medium">{{ selectedDestination.hotel.address }}</div>
             <br />
             <br />
             <br />
@@ -45,6 +48,7 @@
         alt="{{ selectedDestination.car.description }}">
       <div>
         <div>{{ selectedDestination.car.description }}</div>
+        <div class="text-medium">{{ selectedDestination.car.carType }}</div>
         <br />
         <br />
         <br />
@@ -59,6 +63,7 @@
         alt="{{ selectedDestination.activity.name }}">
       <div>
         <div>{{ selectedDestination.activity.name }}</div>
+        <div class="text-medium">{{ selectedDestination.activity.description }}</div>
         <br />
         <br />
         <br />
