@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
   constructor(private recommendationService: RecommendationService) { }
 
   getPackages(): void {
-    let packages = this.recommendationService.getPackages("Dallas",2000,"Relex","Beach");
+    let packages = this.recommendationService.getPackages("Dallas",2000,"Relax","Beach");
     console.log(packages);
   }
 

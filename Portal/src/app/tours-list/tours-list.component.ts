@@ -1,5 +1,6 @@
 import { CommentStmt } from '@angular/compiler';
 import { Component, OnInit } from '@angular/core';
+import { RecommendationService } from '../Services/recommendation.service';
 import { Tours } from './tours.model';
 
 @Component({
@@ -9,8 +10,6 @@ import { Tours } from './tours.model';
 })
 export class ToursListComponent implements OnInit {
 
-  destinations = new Tours();
-
   constructor() { }
 
   ngOnInit(): void {
@@ -18,21 +17,19 @@ export class ToursListComponent implements OnInit {
   }
 
   getToursList() {
-    let destinations = new Tours();
-    destinations[0].duration = "2 days";
-    destinations[0].location = "New York"
+  let recommService = new RecommendationService();
+  let preferredLocation = "New York";
+  let preferredBudget = 1000;
+  let preferredVacation = "Night Life";
+  let preferredActivity = "Club";
 
-    destinations[0].cost = "$200";
+  let destinations = recommService.getPackages(preferredLocation, preferredBudget, preferredVacation, preferredActivity);
+  return destinations;
+  }
 
-    destinations[1].duration = "2 days";
-    destinations[1].location = "New York"
-
-    destinations[1].cost = "$200";
-
-    destinations[2].duration = "2 days";
-    destinations[2].location = "New York"
-
-    destinations[2].cost = "$200";
+  getImageUrl()
+  {
+    return "url(" +  + ")";
   }
 
 }

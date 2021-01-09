@@ -1,10 +1,10 @@
-<div class="center-this-pls">
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 center-this-pls">
     <div class="col-min text-header">
-        <h3>
+        <h4>
             <span style="color:#ed7437">
-                <strong>Showing Top Locations based</strong>
+                <strong>Showing Destinations for 2 People from 01/04/2021 to 04/04/2021 costing $1000 </strong>
             </span>
-        </h3>
+        </h4>
     </div>
 </div>
 <!-- <div class="center-this-pls ">
@@ -55,32 +55,29 @@
     </div>
 </div> -->
 
-
-<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" *ngFor = "let item of destinations; trackBy: getToursList;">
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" *ngFor = "let item of getToursList(); trackBy: getToursList">
     <div class="thumbnail destination-card ">
 
         <div class="hovereffect">
-            <!-- <div class="destination-images" [ngStyle]="{'background-image': 'url(' + item.image['@link'] + ')'}"> -->
-                <div class="destination-images">
+            <div class="destination-images" [ngStyle]="{'background-image': 'url(' + item.image +')'}">
                 <div class="caption" id="destination-text">
-
-                    <br>Location: {{ item.location }}
+                    <br>Location: {{ item.name }}
                     <br>Days : {{ item.duration }}
-                    <br>Cost : {{ item.cost }}
+                    <br>Cost : ${{ item.cost }}
                     <!-- <br> Tour Type: {{item.tourTypes[0]['displayName']}} -->
                     <!-- <br> {{item.tourTypes[1]['displayName']}} -->
 
-                </div>
+              </div>  
 
             </div>
-            <!-- <div class="overlay">
-                <a class="info" ng-href="#/detail/{{item['@name']}}">
+            <div class="overlay">
+                <a class="info" ng-href="">
                     View Details
                 </a>
-            </div> -->
-
+            </div>
+          
         </div>
+        
     </div>
-
+  <br />
 </div>
-
