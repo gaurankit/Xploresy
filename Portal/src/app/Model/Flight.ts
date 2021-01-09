@@ -2,7 +2,9 @@ export class Flight {
   number: string;
   airlineName: string;
   sourceAirport:string;
+  sourceCity:string;
   destinationAirport:string;
+  destinationCity:string;
   startDateTime:Date;
   endDateTime:Date;
   duration:number;
@@ -12,4 +14,5 @@ export class Flight {
   freeChange:boolean;
   rank:number;
   logo:string;
+  tags:string;
 }

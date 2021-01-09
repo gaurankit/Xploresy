@@ -1,20 +1,33 @@
 <div class="card">
-    <h2 class="col-md-3">Vacation Planner</h2>
     <div class="card-header">
       {{pageTitle}}
     </div>
     <div class="card-body">
       <div class="container-fluid">
-        
-    
-
         <div class='row'>
-            <div class='col-md-3'><input type='text' id="txt-budget" style="width:100%;" placeholder="Budget, in $ ex. 1000"
-                [(ngModel)]="srchCriteria.budget" required /></div>
+            <div class='col-md-3'>
+              <mat-form-field class="example-form-field" style="width:100%">
+                <mat-label>Budget, in $ ex. 1000</mat-label>
+                <input matInput type="text" [(ngModel)]="srchCriteria.budget">
+                <button mat-button *ngIf="srchCriteria.budget" matSuffix mat-icon-button aria-label="Clear" (click)="srchCriteria.budget">
+                  <mat-icon>close</mat-icon>
+                </button>
+              </mat-form-field>
+              <!-- <input type='text' id="txt-budget" style="width:100%;" placeholder="Budget, in $ ex. 1000"
+                [(ngModel)]="srchCriteria.budget" /> -->
+              </div>
         </div>
         <div class="row">
-            <div class='col-md-3'><input type='text' id="txt-origin" style="width:100%;" placeholder="From city ex. Dallas"
-                [(ngModel)]="srchCriteria.origin" required /></div>
+          <div class='col-md-3'>
+          <mat-form-field class="example-form-field" style="width:100%">
+            <mat-label>From city ex. Dallas</mat-label>
+            <input matInput type="text" [(ngModel)]="srchCriteria.origin">
+            <button mat-button *ngIf="srchCriteria.origin" matSuffix mat-icon-button aria-label="Clear" (click)="srchCriteria.origin=''">
+              <mat-icon>close</mat-icon>
+            </button>
+          </mat-form-field>
+        </div>
+
         </div>
         <div class="height1"></div>
         <span style="font-weight:bold">Vacation Preference</span>
@@ -61,4 +74,4 @@
       </div>
     </div>
   </div>
-  <router-outlet></router-outlet>
+

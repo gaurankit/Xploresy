@@ -9,7 +9,6 @@ import { SearchCriteria } from './../Model/SearchCriteria';
 export class SearchComponent implements OnInit {
 
   public pageTitle = 'We are here to help you plan better!';
-
   srchCriteria = new SearchCriteria();
 
   constructor(private router: Router) { }
@@ -27,11 +26,4 @@ export class SearchComponent implements OnInit {
   ngOnInit(): void {
     this.srchCriteria = new SearchCriteria();
   }
-
-  fetchItemDetailsSearch(): string[] {
-    let locations = ['San Francisco', 'Dallas'];
-
-    return locations;
-  }
-
 }
