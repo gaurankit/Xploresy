@@ -4,7 +4,7 @@ import { RecommendationService } from '../Services/recommendation.service';
 import { Tours } from './tours.model';
 
 @Component({
-  selector: 'app-tours-list',
+  selector: 'tours-list',
   templateUrl: './tours-list.component.html',
   styleUrls: ['./tours-list.component.css']
 })

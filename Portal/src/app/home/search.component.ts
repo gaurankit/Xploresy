@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { SearchCriteria } from './../Model/SearchCriteria';
 
 @Component({
@@ -6,6 +7,9 @@ import { SearchCriteria } from './../Model/SearchCriteria';
     templateUrl: './search.component.html'
 })
 export class SearchComponent implements OnInit {
+
+  constructor(private router: Router) { }
+  
   public pageTitle = 'We are here to help you plan better!';
 
   srchCriteria = new SearchCriteria();
@@ -16,7 +20,7 @@ export class SearchComponent implements OnInit {
   }
 
   search(): void{
-    
+    this.router.navigateByUrl('/results');
   }
 
   ngOnInit(): void {

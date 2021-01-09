@@ -4,7 +4,8 @@ import { RecommendationService } from "./Services/recommendation.service";
 @Component({
   selector: 'app-root',
   styleUrls: ['./app.component.css'],
-  template: `<div><h2 style="padding-left:20px">{{title}}</h2><sm-search></sm-search></div>`
+  templateUrl: './app.component.html',
+  // template: `<div><h2 style="padding-left:20px">{{title}}</h2><sm-search></sm-search></div>`
 })
 
 export class AppComponent implements OnInit {
