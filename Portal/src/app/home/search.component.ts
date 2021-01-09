@@ -20,6 +20,7 @@ export class SearchComponent implements OnInit {
   }
 
   search(): void{
+    localStorage.setItem('searchCriteria', JSON.stringify(this.srchCriteria));
     this.router.navigateByUrl('/loading');
   }
 
