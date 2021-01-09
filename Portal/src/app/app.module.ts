@@ -6,20 +6,23 @@ import { MatButtonModule } from '@angular/material/button';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ToursListComponent } from './tours-list/tours-list.component';
-import { SearchComponent } from './home/search.component'
+import { SearchComponent } from './home/search.component';
+
+import {DemoMaterialModule} from './tours-list/material-module';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     ToursListComponent,
-    SearchComponent
+    SearchComponent   
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    MatButtonModule
+    MatButtonModule,
+    DemoMaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent]
