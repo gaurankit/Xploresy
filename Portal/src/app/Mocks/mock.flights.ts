@@ -6,7 +6,9 @@ import { Flight } from '../Model/Flight';
     {
       airlineName:"Delta",
       sourceAirport:"DFW",
-      destinationAirport:"LAX",
+      sourceCity:"Dallas",
+      destinationAirport:"LAS",
+      destinationCity:"Las Vegas",
       Price:400,
       duration:3,
       startDateTime:new Date(2020,1,20),
@@ -16,12 +18,15 @@ import { Flight } from '../Model/Flight';
       number:"DL2343",
       refundable:false,
       logo:"",
-      rank:0
+      rank:0,
+      tags:""
     },
     {
       airlineName:"American",
       sourceAirport:"DFW",
-      destinationAirport:"LAS",
+      sourceCity:"Dallas",
+      destinationAirport:"HNL",
+      destinationCity:"Honolulu",
       Price:250,
       duration:2,
       startDateTime:new Date(2020,2,12),
@@ -31,12 +36,15 @@ import { Flight } from '../Model/Flight';
       number:"AA2342",
       refundable:false,
       logo:"",
-      rank:0
+      rank:0,
+      tags:""
     },
     {
       airlineName:"American",
       sourceAirport:"DFW",
-      destinationAirport:"New Orleans",
+      sourceCity:"Dallas",
+      destinationAirport:"MSY",
+      destinationCity:"New Orleans",
       Price:150,
       duration:1.5,
       startDateTime:new Date(2020,3,1),
@@ -46,12 +54,15 @@ import { Flight } from '../Model/Flight';
       number:"AA5689",
       refundable:true,
       logo:"",
-      rank:0
+      rank:0,
+      tags:""
     },
     {
       airlineName:"United",
       sourceAirport:"DFW",
-      destinationAirport:"Chicago",
+      sourceCity:"Dallas",
+      destinationAirport:"DEN",
+      destinationCity:"Colorado",
       Price:120,
       duration:2.5,
       startDateTime:new Date(2020,3,1),
@@ -61,6 +72,7 @@ import { Flight } from '../Model/Flight';
       number:"UA5600",
       refundable:false,
       logo:"",
-      rank:0
+      rank:0,
+      tags:""
     }
 ];
