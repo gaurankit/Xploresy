@@ -1,9 +1,11 @@
 export class Flight {
-  number: number;
+  number: string;
   airlineName: string;
+  sourceAirport:string;
+  destinationAirport:string;
   startDateTime:Date;
   endDateTime:Date;
-  duration:string;
+  duration:number;
   Price:number;
   stops:number;
   refundable:boolean;

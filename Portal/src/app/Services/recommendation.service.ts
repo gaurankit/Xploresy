@@ -42,4 +42,14 @@ export class RecommendationService {
 
     return packageList;
   }
+
+  getFlights(sourceLocation:string,budget:number,vacationPref:string,activityPref:string){
+
+  }
+
+
+
+
 }
+
+
