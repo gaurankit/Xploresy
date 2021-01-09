@@ -8,7 +8,7 @@
     </div>
 </div>
 
-<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" [(ngModel)]="selectedDestination">
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" name="fieldName" ngDefaultControl [(ngModel)]="selectedDestination">
     <mat-card class="home-card">
         <mat-card-content class="home-card-content">
           <img mat-card-image
@@ -17,7 +17,8 @@
           <div>
             <div>{{ selectedDestination.flight.airlineName }}</div>
             <div class="text-medium">{{ selectedDestination.flight.sourceCity }} to {{ selectedDestination.flight.destinationAirport }}</div>
-            <div class="text-medium">{{ selectedDestination.flight.startDateTime  | date: 'MM-dd-yyyy hh mm'}} to {{ selectedDestination.flight.endDateTime }}</div>
+            <div class="text-medium">Departure: {{ selectedDestination.flight.startDateTime  | date: 'MM-dd-yyyy hh mm a'}}</div>
+            <div class="text-medium">Arrival: {{ selectedDestination.flight.endDateTime  | date: 'MM-dd-yyyy hh mm a'}} </div>
             <br />
             <br />
             <br />
