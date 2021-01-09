@@ -6,7 +6,7 @@ import { Tours } from './tours.model';
 @Component({
   selector: 'tours-list',
   templateUrl: './tours-list.component.html',
-  styleUrls: ['./tours-list.component.css']
+  styleUrls: ['./tours-list.component.scss']
 })
 export class ToursListComponent implements OnInit {
 

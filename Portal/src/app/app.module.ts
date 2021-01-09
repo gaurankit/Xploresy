@@ -9,6 +9,8 @@ import { AppComponent } from './app.component';
 import { ToursListComponent } from './tours-list/tours-list.component';
 import { SearchComponent } from './home/search.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
+import {DemoMaterialModule} from './tours-list/material-module';
+
 
 
 @NgModule({
@@ -22,7 +24,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
     AppRoutingModule,
     FormsModule,
     MatButtonModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    DemoMaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent]
