@@ -4,7 +4,7 @@
         <h4>
             <span>
                   <strong>Showing Destinations for  <span contenteditable="true">{{passengerCount}}</span>  
-                    People from<span contenteditable="true"> {{fromDate}} </span><span contenteditable="true"> {{toDate}} </span>costing<span contenteditable="true"> ${{cost}} </span>
+                    People from <span contenteditable="true"> {{fromDate}} </span>  to <span contenteditable="true">{{toDate}} </span>costing<span contenteditable="true"> ${{cost}} </span>
                   </strong>
             </span>
         </h4>
@@ -26,26 +26,5 @@
       </div>
     </mat-card-content>
 </mat-card>
-<!--
-    <div class="thumbnail destination-card ">
-
-        <div class="hovereffect">
-            <div class="destination-images" [ngStyle]="{'background-image': 'url(' + item.image +')'}">
-                <div class="caption" id="destination-text">
-                    <br>Location: {{ item.name }}
-                    <br>Days : {{ item.duration }}
-                    <br>Cost : ${{ item.cost }}
-              </div>
-
-            </div>
-            <div class="overlay">
-                <a class="info" ng-href="">
-                    View Details
-                </a>
-            </div>
-
-        </div>
-
-    </div> -->
 </div>
 <router-outlet></router-outlet>
