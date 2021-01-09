@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { SearchCriteria } from './../Model/SearchCriteria';
 
 @Component({
@@ -10,13 +11,16 @@ export class SearchComponent implements OnInit {
 
   srchCriteria = new SearchCriteria();
 
+  constructor(private router: Router) { }
+
   rdbtnClick(btnId: string): void {
     this.srchCriteria.vacPref = btnId;
     console.log(this.srchCriteria.vacPref);
   }
 
   search(): void{
-    
+    console.log(this.srchCriteria.vacPref);
+    this.router.navigateByUrl('/tours-list');
   }
 
   ngOnInit(): void {

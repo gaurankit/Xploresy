@@ -16,15 +16,15 @@
         <span style="font-weight:bold">Vacation Preference</span>
         <div class='row'>
             <div class='col-md-1 radio-wrap'>
-                <input type="radio" id="pref-relaxing" (click)="rdbtnClick('Relaxing')" name="preference" value="Relaxing" checked="true">
+                <input type="radio" id="pref-relaxing" (change)="rdbtnClick('Relaxing')" name="preference" value="Relaxing">
                 <label title="Relaxing" class="prefCls" for="pref-relaxing">Relaxing</label>
             </div>
             <div class='col-md-1 radio-wrap'>
-                <input type="radio" id="pref-luxury" (click)="rdbtnClick('Luxury')" name="preference" value="Luxury">
+                <input type="radio" id="pref-luxury" (change)="rdbtnClick('Luxury')" name="preference" value="Luxury">
                 <label title="Luxury" class="prefCls" for="pref-luxury">Luxury</label>
             </div>
             <div class='col-md-1 radio-wrap'>
-                <input type="radio" id="pref-adventurous" (click)="rdbtnClick('Adventurous')" name="preference" value="Adventurous" >
+                <input type="radio" id="pref-adventurous" (change)="rdbtnClick('Adventurous')" name="preference" value="Adventurous" >
                 <label title="Adventurous" class="prefCls" for="pref-adventurous">Adventurous</label>
             </div>
         </div>
@@ -53,7 +53,7 @@
         </div>
         <div class="height1"></div>
         </div>
-        <button mat-button color="primary" (click)="search()">Search</button>
+        <button mat-button color="primary" (click)="search()" [routerLink]="['/results']" >Search</button>
       </div>
     </div>
   </div>
