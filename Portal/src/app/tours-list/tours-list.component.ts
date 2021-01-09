@@ -2,6 +2,7 @@ import { CommentStmt } from '@angular/compiler';
 import { Component, OnInit } from '@angular/core';
 import { RecommendationService } from '../Services/recommendation.service';
 import { Tours } from './tours.model';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'tours-list',
@@ -10,7 +11,7 @@ import { Tours } from './tours.model';
 })
 export class ToursListComponent implements OnInit {
 
-  constructor() { }
+  constructor(private router: Router) { }
 
   ngOnInit(): void {
     this.getToursList();
@@ -27,9 +28,8 @@ export class ToursListComponent implements OnInit {
   return destinations;
   }
 
-  getImageUrl()
-  {
-    return "url(" +  + ")";
+  goToProductDetails(id: any) {
+    this.router.navigate(['/detail', id]);
   }
 
 }
