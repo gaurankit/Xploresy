@@ -11,6 +11,7 @@ import { SearchComponent } from './home/search.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
 import {DemoMaterialModule} from './tours-list/material-module';
 import { ToursDetailComponent } from './tours-detail/tours-detail.component';
+import { CheckoutComponent } from './checkout/checkout.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import { ToursDetailComponent } from './tours-detail/tours-detail.component';
     AppComponent,
     ToursListComponent,
     SearchComponent,
-    ToursDetailComponent   
+    ToursDetailComponent,
+    CheckoutComponent
   ],
   imports: [
     BrowserModule,

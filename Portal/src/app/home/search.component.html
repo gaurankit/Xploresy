@@ -31,16 +31,16 @@
         </div>
         <div class="height1"></div>
         <span style="font-weight:bold">Vacation Preference</span>
-        <div class='row'>
-            <div class='col-md-1 radio-wrap'>
+        <div class="row">
+            <div class='col-pref radio-wrap'>
                 <input type="radio" id="pref-relaxing" (change)="rdbtnClick('Relaxing')" name="preference" value="Relaxing">
                 <label title="Relaxing" class="prefCls" for="pref-relaxing">Relaxing</label>
             </div>
-            <div class='col-md-1 radio-wrap'>
+            <div class='col-pref radio-wrap'>
                 <input type="radio" id="pref-luxury" (change)="rdbtnClick('Luxury')" name="preference" value="Luxury">
                 <label title="Luxury" class="prefCls" for="pref-luxury">Luxury</label>
             </div>
-            <div class='col-md-1 radio-wrap'>
+            <div class='col-pref radio-wrap'>
                 <input type="radio" id="pref-adventurous" (change)="rdbtnClick('Adventurous')" name="preference" value="Adventurous" >
                 <label title="Adventurous" class="prefCls" for="pref-adventurous">Adventurous</label>
             </div>
@@ -68,9 +68,12 @@
                 <label for='tag-beach' title="beach">Beach</label>
             </div>
         </div>
-        <div class="height1"></div>
         </div>
-        <button mat-raised-button color="primary" (click)="search()"  >Search</button>
+        <div class='row' >
+            <div class='col-md-4 center' >
+                <button mat-raised-button color="primary" (click)="search()" style="width: 60%;" >Search</button>
+            </div>
+        </div>
       </div>
     </div>
   </div>

@@ -4,6 +4,7 @@ import { SearchComponent } from './home/search.component';
 import { LoaderComponent } from './home/loader.component';
 import { ToursListComponent } from './tours-list/tours-list.component';
 import { ToursDetailComponent } from './tours-detail/tours-detail.component';
+import { CheckoutComponent } from './checkout/checkout.component';
 
 
 const routes: Routes = [
@@ -11,6 +12,7 @@ const routes: Routes = [
   {path: 'loading', component: LoaderComponent},
   {path: 'results', component: ToursListComponent} ,
   {path: 'detail/:id', component: ToursDetailComponent} ,
+  {path: 'checkout', component: CheckoutComponent} ,
   { path: '',   redirectTo: '/search', pathMatch: 'full' }
 ];
 
