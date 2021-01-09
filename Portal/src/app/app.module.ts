@@ -8,7 +8,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ToursListComponent } from './tours-list/tours-list.component';
 import { SearchComponent } from './home/search.component';
-
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
 import {DemoMaterialModule} from './tours-list/material-module';
 import { ToursDetailComponent } from './tours-detail/tours-detail.component';
 
@@ -25,6 +25,7 @@ import { ToursDetailComponent } from './tours-detail/tours-detail.component';
     AppRoutingModule,
     FormsModule,
     MatButtonModule,
+    BrowserAnimationsModule,
     DemoMaterialModule
   ],
   providers: [],

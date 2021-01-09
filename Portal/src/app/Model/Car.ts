@@ -1,9 +1,9 @@
 export class Car {
   description: string;
-  CarType: string;
+  carType: string;
   pickUpDateTime:Date;
   dropOffDateTime:Date;
-  duration:string;
+  duration:number;
   Price:number;
   freeCancellation:boolean;
   rank:number;

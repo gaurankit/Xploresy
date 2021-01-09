@@ -1,7 +1,7 @@
 export class Activity {
   name: string;
   type: string;
-  dsscription:string;
+  description:string;
   Price:number;
   rank:number;
   heroImage:string;
