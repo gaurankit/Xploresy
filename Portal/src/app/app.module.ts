@@ -18,6 +18,7 @@ import { SearchComponent } from './home/search.component'
   imports: [
     BrowserModule,
     AppRoutingModule,
+    FormsModule,
     MatButtonModule
   ],
   providers: [],

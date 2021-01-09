@@ -5,28 +5,31 @@
     <div class="card-body">
       <div class="container-fluid">
         <div class='row'>
-            <div class='col-md-2'><input type='text' id="txt-budget" style="width:350px;" placeholder="Budget, in $ ex. 1000"/></div>
+            <div class='col-md-2'><input type='text' id="txt-budget" style="width:350px;" placeholder="Budget, in $ ex. 1000"
+                [(ngModel)]="srchCriteria.budget" /></div>
         </div>
         <div class="row">
-            <div class='col-md-2'><input type='text' id="txt-origin" style="width:350px;" placeholder="From city ex. Dallas"/></div>
+            <div class='col-md-2'><input type='text' id="txt-origin" style="width:350px;" placeholder="From city ex. Dallas"
+                [(ngModel)]="srchCriteria.origin"/></div>
         </div>
         <div class="height1"></div>
         <span style="font-weight:bold">Vacation Preference</span>
         <div class='row'>
             <div class='col-md-1 radio-wrap'>
-                <input type="radio" id="pref-relaxing" class="pageMedium box" name="preference" value="Relaxing" checked="">
+                <input type="radio" id="pref-relaxing" (click)="rdbtnClick('Relaxing')" name="preference" value="Relaxing" checked="true">
                 <label title="Relaxing" class="prefCls" for="pref-relaxing">Relaxing</label>
             </div>
             <div class='col-md-1 radio-wrap'>
-                <input type="radio" id="pref-luxury" class="pageMedium box" name="preference" value="Luxury" checked="">
+                <input type="radio" id="pref-luxury" (click)="rdbtnClick('Luxury')" name="preference" value="Luxury">
                 <label title="Luxury" class="prefCls" for="pref-luxury">Luxury</label>
             </div>
             <div class='col-md-1 radio-wrap'>
-                <input type="radio" id="pref-adventurous" class="pageMedium box" name="preference" value="Adventurous" checked="">
+                <input type="radio" id="pref-adventurous" (click)="rdbtnClick('Adventurous')" name="preference" value="Adventurous" >
                 <label title="Adventurous" class="prefCls" for="pref-adventurous">Adventurous</label>
             </div>
         </div>
         <div class="height1"></div>
+        <div style="display: none;">
         <span style="font-weight:bold">Activity Preference</span>
         <div class='row'>
             <div class='col-md-2'>
@@ -49,6 +52,7 @@
             </div>
         </div>
         <div class="height1"></div>
+        </div>
         <button mat-button color="primary" (click)="search()">Search</button>
       </div>
     </div>

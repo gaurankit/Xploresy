@@ -8,7 +8,7 @@ import { RecommendationService } from "./Services/recommendation.service";
 })
 
 export class AppComponent implements OnInit {
-  title = 'Portal';
+  title = 'Vacation Planner';
 
   constructor(private recommendationService: RecommendationService) { }
 
