@@ -1,7 +1,7 @@
 export class Hotel {
-  name: number;
+  name: string;
   address: string;
-  starRating:Date;
+  starRating:number;
   price:number;
   freeCancellation:boolean;
   rank:number;
