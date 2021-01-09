@@ -29,7 +29,7 @@ export class ToursDetailComponent implements OnInit {
   let preferredActivity = "Club";
 
   let destinations = recommService.getPackages(preferredLocation, preferredBudget, preferredVacation, preferredActivity);
-  destinations[0].name = "Spirt";
+  destinations[0].name = "Spirit";
   destinations[0].cost = 78;
   destinations[0].image = 'https://static-21.sinclairstoryline.com/resources/media/d7356d44-c49a-4f2d-871f-2289614b2d29-large16x9_spirit.logo.JPG'; 
 

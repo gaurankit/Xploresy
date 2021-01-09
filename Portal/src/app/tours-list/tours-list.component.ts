@@ -11,6 +11,10 @@ import { SearchCriteria } from '../Model/SearchCriteria';
   styleUrls: ['./tours-list.component.scss']
 })
 export class ToursListComponent implements OnInit {
+  passengerCount = ''; 
+  fromDate = '';
+  toDate = '';
+  cost = 0;
 
   constructor(private router: Router) { }
 
@@ -28,12 +32,30 @@ export class ToursListComponent implements OnInit {
   let searchcrt = <SearchCriteria>JSON.parse(localStorage.getItem('searchCriteria'));
   console.log(searchcrt);
 
+  this.cost = searchcrt.budget;
+  this.fromDate = '01/12/2021';
+  this.toDate = '01/15/2021';
+  this.passengerCount = '2';
+
   let destinations = recommService.getPackages(searchcrt.origin, searchcrt.budget, searchcrt.vacPref, preferredActivity);
   return destinations;
   }
 
   goToProductDetails(id: any) {
     this.router.navigate(['/detail', id]);
+  }
+
+  savePassengerCount(value){
+    this.passengerCount=value;
+  }
+  saveFromDate(value){
+    this.fromDate=value;
+  }
+  saveToDate(value){
+    this.toDate=value;
+  }
+  saveCost(value){
+    this.cost=value;
   }
 
 }
