@@ -8,11 +8,11 @@ import { SearchCriteria } from './../Model/SearchCriteria';
 })
 export class SearchComponent implements OnInit {
 
-  constructor(private router: Router) { }
-  
   public pageTitle = 'We are here to help you plan better!';
 
   srchCriteria = new SearchCriteria();
+
+  constructor(private router: Router) { }
 
   rdbtnClick(btnId: string): void {
     this.srchCriteria.vacPref = btnId;
