@@ -14,17 +14,19 @@
       </div>
       <p>
         <mat-button-toggle-group name="fontStyle" aria-label="Font Style" style="width:100%;margin-bottom:50px;margin-top:50px;">
-          <mat-button-toggle value="bold">Pay with Points</mat-button-toggle>
-          <mat-button-toggle value="bold">Pay with Point+CC</mat-button-toggle>
-          <mat-button-toggle value="underline">Pay with CreditCard</mat-button-toggle>
+          <mat-button-toggle value="bold">
+            <img style="width:75px;" src="https://www.paniniamerica.net/images/reward-points.4b133f855b7216965a0f17a9d3162463.png"/>
+            <br/>
+            Pay with Points</mat-button-toggle>
+          <mat-button-toggle value="bold">
+            <img src="https://cdn.amtrav.com/purchase/icn-p@2x.png"/>
+            <br/>Monthly Payments</mat-button-toggle>
+            <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/dd3a2a67-9caa-4e86-a2eb-bd234f3fc271">
+          <mat-button-toggle value="underline">
+            <img src="https://cdn.amtrav.com/purchase/icn-bt@2x.png"/>
+            <br/>Pay with Crypto</mat-button-toggle>
+          </a>
         </mat-button-toggle-group>
       </p>
-</div>
-
-<div style="text-align:center;">
-    <a class="buy-with-crypto"
-    href="https://commerce.coinbase.com/checkout/dd3a2a67-9caa-4e86-a2eb-bd234f3fc271">
-    <button mat-raised-button color="primary" href="https://commerce.coinbase.com/checkout/dd3a2a67-9caa-4e86-a2eb-bd234f3fc271">Pay with Crypto</button>
-    </a>
 </div>
 </div>
