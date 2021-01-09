@@ -20,7 +20,7 @@ export class SearchComponent implements OnInit {
   }
 
   search(): void{
-    this.router.navigateByUrl('/results');
+    this.router.navigateByUrl('/loading');
   }
 
   ngOnInit(): void {
