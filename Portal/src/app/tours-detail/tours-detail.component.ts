@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { RecommendationService } from '../Services/recommendation.service';
 import { ActivatedRoute } from '@angular/router';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'tours-detail',
@@ -11,14 +12,18 @@ export class ToursDetailComponent implements OnInit {
   id: any;
   destinations: any;
 
-  constructor(private route: ActivatedRoute) {
+  constructor(private route: ActivatedRoute,private router: Router) {
     let selectedPackage = this.route.params.subscribe(params => {
-      this.id = params['id']; 
+      this.id = params['id'];
     });
    }
 
   ngOnInit(): void {
     this.getPackageDetails()
+  }
+
+  checkout(): void{
+    this.router.navigateByUrl('/checkout');
   }
 
   getPackageDetails() {
@@ -33,7 +38,7 @@ export class ToursDetailComponent implements OnInit {
   this.destinations = recommService.getPackages(preferredLocation, preferredBudget, preferredVacation, preferredActivity);
   this.destinations[0].name = "Spirit";
   this.destinations[0].cost = 78;
-  this.destinations[0].image = 'https://static-21.sinclairstoryline.com/resources/media/d7356d44-c49a-4f2d-871f-2289614b2d29-large16x9_spirit.logo.JPG'; 
+  this.destinations[0].image = 'https://static-21.sinclairstoryline.com/resources/media/d7356d44-c49a-4f2d-871f-2289614b2d29-large16x9_spirit.logo.JPG';
 
   this.destinations[1].name = "Luxor Hotel & Casino";
   this.destinations[1].cost = 46;
