@@ -8,7 +8,6 @@ import { SearchCriteria } from './../Model/SearchCriteria';
 })
 export class SearchComponent implements OnInit {
 
-  public pageTitle = 'We are here to help you plan better!';
   srchCriteria = new SearchCriteria();
 
   constructor(private router: Router) { }
