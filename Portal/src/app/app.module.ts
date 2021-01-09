@@ -10,14 +10,15 @@ import { ToursListComponent } from './tours-list/tours-list.component';
 import { SearchComponent } from './home/search.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
 import {DemoMaterialModule} from './tours-list/material-module';
-
+import { ToursDetailComponent } from './tours-detail/tours-detail.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     ToursListComponent,
-    SearchComponent
+    SearchComponent,
+    ToursDetailComponent   
   ],
   imports: [
     BrowserModule,
