@@ -1,11 +1,12 @@
-import { Component , OnInit} from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RecommendationService } from "./Services/recommendation.service";
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.css'],
+  template: `<div><h2 style="padding-left:20px">{{title}}</h2><sm-search></sm-search></div>`
 })
+
 export class AppComponent implements OnInit {
   title = 'Portal';
 
@@ -20,3 +21,4 @@ export class AppComponent implements OnInit {
 
   }
 }
+
