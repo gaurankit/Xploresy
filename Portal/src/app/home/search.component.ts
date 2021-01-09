@@ -27,4 +27,11 @@ export class SearchComponent implements OnInit {
   ngOnInit(): void {
     this.srchCriteria = new SearchCriteria();
   }
+
+  fetchItemDetailsSearch(): string[] {
+    let locations = ['San Francisco', 'Dallas'];
+
+    return locations;
+  }
+
 }

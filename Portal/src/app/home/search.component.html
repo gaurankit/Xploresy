@@ -5,13 +5,16 @@
     </div>
     <div class="card-body">
       <div class="container-fluid">
+        
+    
+
         <div class='row'>
             <div class='col-md-3'><input type='text' id="txt-budget" style="width:100%;" placeholder="Budget, in $ ex. 1000"
-                [(ngModel)]="srchCriteria.budget" /></div>
+                [(ngModel)]="srchCriteria.budget" required /></div>
         </div>
         <div class="row">
             <div class='col-md-3'><input type='text' id="txt-origin" style="width:100%;" placeholder="From city ex. Dallas"
-                [(ngModel)]="srchCriteria.origin"/></div>
+                [(ngModel)]="srchCriteria.origin" required /></div>
         </div>
         <div class="height1"></div>
         <span style="font-weight:bold">Vacation Preference</span>
