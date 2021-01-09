@@ -176,6 +176,9 @@ getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
         flightBudget = totalBudget*20/100;
         break;
       }
+      default:{
+        flightBudget = totalBudget*20/100;
+      }
     }
     return flightBudget;
   }
@@ -195,6 +198,9 @@ getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
       case"Adventurous": {
         HotelBudget = totalBudget*25/100;
         break;
+      }
+      default:{
+        HotelBudget = totalBudget*40/100;
       }
     }
     return HotelBudget;
@@ -216,6 +222,9 @@ getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
         CarBudget = totalBudget*15/100;
         break;
       }
+      default:{
+        CarBudget = totalBudget*10/100;
+      }
     }
     return CarBudget;
   }
@@ -235,6 +244,9 @@ getActivity(destinationLocation:string,totalBudget:number,vacationPref:string){
       case"Adventurous": {
         activityBudget = totalBudget*40/100;
         break;
+      }
+      default:{
+        activityBudget = totalBudget*10/100;
       }
     }
     return activityBudget;
