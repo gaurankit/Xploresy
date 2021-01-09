@@ -1,15 +1,16 @@
 <div class="card">
+    <h2 class="col-md-3">Vacation Planner</h2>
     <div class="card-header">
       {{pageTitle}}
     </div>
     <div class="card-body">
       <div class="container-fluid">
         <div class='row'>
-            <div class='col-md-2'><input type='text' id="txt-budget" style="width:350px;" placeholder="Budget, in $ ex. 1000"
+            <div class='col-md-3'><input type='text' id="txt-budget" style="width:100%;" placeholder="Budget, in $ ex. 1000"
                 [(ngModel)]="srchCriteria.budget" /></div>
         </div>
         <div class="row">
-            <div class='col-md-2'><input type='text' id="txt-origin" style="width:350px;" placeholder="From city ex. Dallas"
+            <div class='col-md-3'><input type='text' id="txt-origin" style="width:100%;" placeholder="From city ex. Dallas"
                 [(ngModel)]="srchCriteria.origin"/></div>
         </div>
         <div class="height1"></div>
@@ -57,3 +58,4 @@
       </div>
     </div>
   </div>
+  <router-outlet></router-outlet>

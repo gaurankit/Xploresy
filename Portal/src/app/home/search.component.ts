@@ -7,6 +7,7 @@ import { SearchCriteria } from './../Model/SearchCriteria';
     templateUrl: './search.component.html'
 })
 export class SearchComponent implements OnInit {
+
   public pageTitle = 'We are here to help you plan better!';
 
   srchCriteria = new SearchCriteria();
@@ -19,8 +20,7 @@ export class SearchComponent implements OnInit {
   }
 
   search(): void{
-    console.log(this.srchCriteria.vacPref);
-    this.router.navigateByUrl('/tours-list');
+    this.router.navigateByUrl('/results');
   }
 
   ngOnInit(): void {
