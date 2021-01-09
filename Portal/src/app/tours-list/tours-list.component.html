@@ -11,7 +11,7 @@
     </div>
 </div>
 
-<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" *ngFor = "let item of getToursList(); trackBy: getToursList">
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" *ngFor = "let item of destinations">
   <mat-card class="home-card" (click)="goToProductDetails(item.city)">
     <mat-card-content class="home-card-content">
       <img mat-card-image

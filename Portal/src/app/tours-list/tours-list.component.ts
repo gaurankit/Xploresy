@@ -15,30 +15,31 @@ export class ToursListComponent implements OnInit {
   fromDate = '';
   toDate = '';
   cost = 0;
+  searchcrt: any;
+  destinations: any;
 
   constructor(private router: Router) { }
 
   ngOnInit(): void {
+  
     this.getToursList();
+    
   }
 
   getToursList() {
   let recommService = new RecommendationService();
-  let preferredLocation = "New York";
-  let preferredBudget = 1000;
-  let preferredVacation = "Night Life";
   let preferredActivity = "Club";
 
   let searchcrt = <SearchCriteria>JSON.parse(localStorage.getItem('searchCriteria'));
   console.log(searchcrt);
 
+  this.passengerCount = '2';
   this.cost = searchcrt.budget;
   this.fromDate = '01/12/2021';
   this.toDate = '01/15/2021';
-  this.passengerCount = '2';
-
-  let destinations = recommService.getPackages(searchcrt.origin, searchcrt.budget, searchcrt.vacPref, preferredActivity);
-  return destinations;
+  
+  this.destinations = recommService.getPackages(searchcrt.origin, searchcrt.budget, searchcrt.vacPref, preferredActivity);
+  return this.destinations;
   }
 
   goToProductDetails(id: any) {
