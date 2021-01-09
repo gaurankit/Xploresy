@@ -1,6 +1,7 @@
 <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
 </script>
-<div style="height:500px;">
+
+<div  style="height:500px; margin:10px;">
   <div class='row' style="margin-left:20px;margin-right:20px;">
     <div class='col-md-3'>
       <mat-form-field class="example-form-field" style="width:100%">
@@ -29,4 +30,17 @@
         </mat-button-toggle-group>
       </p>
 </div>
+
+<div style="text-align:center;">
+    <a class="buy-with-crypto"
+    href="https://commerce.coinbase.com/checkout/dd3a2a67-9caa-4e86-a2eb-bd234f3fc271">
+    <button mat-raised-button color="primary" href="https://commerce.coinbase.com/checkout/dd3a2a67-9caa-4e86-a2eb-bd234f3fc271">Pay with Crypto</button>
+    </a>
+</div>
+<br/>
+<div style="text-align:center;">
+    <button mat-raised-button color="primary" (click)="gotToConf()">Complete Checkout</button>
+  </div>
+
+
 </div>
