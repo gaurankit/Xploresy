@@ -6,4 +6,6 @@ import { Component } from '@angular/core';
 })
 export class SearchComponent {
   public pageTitle = 'We are here to help you plan better!';
+
+  search(): void{}
 }
