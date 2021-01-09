@@ -1,0 +1,55 @@
+<div class="card">
+    <div class="card-header">
+      {{pageTitle}}
+    </div>
+    <div class="card-body">
+      <div class="container-fluid">
+        <div class='row'>
+            <div class='col-md-2'><input type='text' id="txt-budget" style="width:350px;" placeholder="Budget, in $ ex. 1000"/></div>
+        </div>
+        <div class="row">
+            <div class='col-md-2'><input type='text' id="txt-origin" style="width:350px;" placeholder="From city ex. Dallas"/></div>
+        </div>
+        <div class="height1"></div>
+        <span style="font-weight:bold">Vacation Preference</span>
+        <div class='row'>
+            <div class='col-md-1 radio-wrap'>
+                <input type="radio" id="pref-relaxing" class="pageMedium box" name="preference" value="Relaxing" checked="">
+                <label title="Relaxing" class="prefCls" for="pref-relaxing">Relaxing</label>
+            </div>
+            <div class='col-md-1 radio-wrap'>
+                <input type="radio" id="pref-luxury" class="pageMedium box" name="preference" value="Luxury" checked="">
+                <label title="Luxury" class="prefCls" for="pref-luxury">Luxury</label>
+            </div>
+            <div class='col-md-1 radio-wrap'>
+                <input type="radio" id="pref-adventurous" class="pageMedium box" name="preference" value="Adventurous" checked="">
+                <label title="Adventurous" class="prefCls" for="pref-adventurous">Adventurous</label>
+            </div>
+        </div>
+        <div class="height1"></div>
+        <span style="font-weight:bold">Activity Preference</span>
+        <div class='row'>
+            <div class='col-md-2'>
+                <input type="checkbox" id='tag-nightlife' class='tagCls' name="nightlife">
+                <label for='tag-nightlife' title="nightlife">Nightlife</label>
+            </div>
+            <div class='col-md-2'>
+                <input type="checkbox" id='tag-dining' class='tagCls' name="dining">
+                <label for='tag-dining' title="dining">Dining</label>
+            </div>
+        </div>
+        <div class='row'>
+            <div class='col-md-2'>
+                <input type="checkbox" id='tag-shopping' class='tagCls' name="shopping">
+                <label for='tag-shopping' title="shopping">Shopping</label>
+            </div>
+            <div class='col-md-2'>
+                <input type="checkbox" id='tag-beach' class='tagCls' name="beach">
+                <label for='tag-beach' title="beach">Beach</label>
+            </div>
+        </div>
+        <div class="height1"></div>
+        <input type="button" id="btn-search" value="Search"/>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,83 @@
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 center-this-pls">
+    <div class="col-min text-header">
+        <h4>
+            <span style="color:#ed7437">
+                <strong>Showing Destinations for 2 People from 01/04/2021 to 04/04/2021 costing $1000 </strong>
+            </span>
+        </h4>
+    </div>
+</div>
+<!-- <div class="center-this-pls ">
+    <div class="page-header">
+
+        <form class="form-horizontal ">
+            <div class="form-group">
+                <div class="col-xs-12 col-sm-6 col-md-3 search-bar search-bar-eyebrow">
+                    <p class="eyebrow-text ">Budget
+                    </p>
+                    <input type="text" placeholder="" class=" form-control" ng-model="tours" id="budgetText">
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 styled-select">
+                    <p class="eyebrow-text">Original Destination</p>
+                    <select class="form-control" ng-model="tours">
+
+                        <option value="">All
+                        </option>
+                        <option ng-repeat="item in tours.destinations | unique:'displayName'" value="{{item.displayName}}">
+                            {{item.displayName}}
+                        </option>
+                    </select>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 styled-select">
+                    <p class="eyebrow-text">Passengers</p>
+
+                    <select class="form-control select" ng-model="duration">
+                        <option value="">All
+                        </option>
+                        <option ng-repeat="item in tours | unique:'duration'" value="{{item.duration}}">
+                            {{item.duration }}
+                        </option>
+                    </select>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 styled-select">
+                    <p class="eyebrow-text">Dates</p>
+
+                    
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 search-bar search-bar-eyebrow">
+                    <p class="eyebrow-text ">Search
+                    </p>
+                    <input type="text" placeholder="" class=" form-control" ng-model="searchLocation">
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div> -->
+
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 repeated-item" *ngFor = "let item of getToursList(); trackBy: getToursList">
+    <div class="thumbnail destination-card ">
+
+        <div class="hovereffect">
+            <div class="destination-images" [ngStyle]="{'background-image': 'url(' + item.image +')'}">
+                <div class="caption" id="destination-text">
+                    <br>Location: {{ item.name }}
+                    <br>Days : {{ item.duration }}
+                    <br>Cost : ${{ item.cost }}
+                    <!-- <br> Tour Type: {{item.tourTypes[0]['displayName']}} -->
+                    <!-- <br> {{item.tourTypes[1]['displayName']}} -->
+
+              </div>  
+
+            </div>
+            <div class="overlay">
+                <a class="info" ng-href="">
+                    View Details
+                </a>
+            </div>
+          
+        </div>
+        
+    </div>
+  <br />
+</div>

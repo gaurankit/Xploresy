@@ -13,4 +13,5 @@ export class Package {
   cost:number;
   name:string;
   city:string;
+  image: string;
 }
